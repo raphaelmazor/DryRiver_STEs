@@ -1,0 +1,562 @@
+CommonName,FinalID,ParentOrganismFinalID,Phylum,Subphylum,Superclass,Class,Subclass,Superorder,Order,Suborder,Superfamily,Family,Subfamily,Tribe,GenusComplex,Genus,SpeciesComplex,Species,Subspecies,Variety,TaxonomicLevelCode
+,Aulacomniaceae,Aulacomniales,Bryophyta,,,Bryopsida,Bryidae,,Aulacomniales,,,Aulacomniaceae,,,,,,,,,40
+,Amblystegium,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,,,,,,50
+,Amblystegium juratzkanum,Amblystegium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Amblystegium,,Amblystegium juratzkanum,,,60
+,Amblystegium radicale,Amblystegium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Amblystegium,,Amblystegium radicale,,,60
+,Amblystegium serpens,Amblystegium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Amblystegium,,Amblystegium serpens,,,60
+,Amblystegium varium,Amblystegium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Amblystegium,,Amblystegium varium,,,60
+,Campylium,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Campylium,,,,,50
+,Campylium chrysophyllum,Campylium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Campylium,,Campylium chrysophyllum,,,60
+,Campylium hispidulum,Campylium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Campylium,,Campylium hispidulum,,,60
+,Conardia,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Conardia,,,,,50
+,Conardia compacta,Conardia,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Conardia,,Conardia compacta,,,60
+,Cratoneuron,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Cratoneuron,,,,,50
+,Cratoneuron filicinum,Cratoneuron,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Cratoneuron,,Cratoneuron filicinum,,,60
+,Drepanocladus,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Drepanocaldus,,,,,50
+,Drepanocladus aduncus,Drepanocladus,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Drepanocaldus,,Drepanocladus aduncus,,,60
+,Drepanocladus capillifolius,Drepanocladus,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Drepanocaldus,,Drepanocladus capillifolius,,,60
+,Drepanocladus polycarpos,Drepanocladus,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Drepanocaldus,,Drepanocladus polycarpos,,,60
+,Drepanocladus polygamus,Drepanocladus,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Drepanocaldus,,Drepanocladus polygamus,,,60
+,Hygroamblystegium,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygroamblystegium,,,,,50
+,Hygroamblystegium tenax,Hygroamblystegium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygroamblystegium,,Hygroamblystegium tenax,,,60
+,Hygrohypnum,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,,,,50
+,Hygrohypnum alpinum,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum alpinum,,,60
+,Hygrohypnum bestii,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum bestii,,,60
+,Hygrohypnum cochlearifolium,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum cochlearifolium,,,60
+,Hygrohypnum duriusculum,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum duriusculum,,,60
+,Hygrohypnum luridum,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum luridum,,,60
+,Hygrohypnum molle,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum molle,,,60
+,Hygrohypnum ochraceum,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum ochraceum,,,60
+,Hygrohypnum smithii,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum smithii,,,60
+,Hygrohypnum styriacum,Hygrohypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Hygrohypnum,,Hygrohypnum styriacum,,,60
+,Leptodictyum,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Leptodictyum,,,,,50
+,Leptodictyum humile,Leptodictyum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Leptodictyum,,Leptodictyum humile,,,60
+,Leptodictyum riparium,Leptodictyum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Leptodictyum,,Leptodictyum riparium,,,60
+,Limprichtia,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Limprichtia,,,,,50
+,Limprichtia revolvens,Limprichtia,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Limprichtia,,Limprichtia revolvens,,,60
+,Palustriella,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Palustriella,,,,,50
+,Palustriella commutata,Palustriella,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Palustriella,,Palustriella commutata,,,60
+,Pseudo-calliergon,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Pseudo-calliergon,,,,,50
+,Pseudo-calliergon angustifolium,Pseudo-calliergon,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Pseudo-calliergon,,Pseudo-calliergon angustifolium,,,60
+,Sanionia,Amblystegiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Sanionia,,,,,50
+,Sanionia uncinata,Sanionia,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,Sanionia,,Sanionia uncinata,,,60
+,Bartramiaceae,Bartramiales,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,,,,,,40
+,Brachythecium,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,,,,50
+,Brachythecium albicans,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium albicans,,,60
+,Brachythecium asperrimum,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium asperrimum,,,60
+,Brachythecium bolanderi,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium bolanderi,,,60
+,Brachythecium calcareum,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium calcareum,,,60
+,Brachythecium collinum,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium collinum,,,60
+,Brachythecium erythrorrhizon,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium erythrorrhizon,,,60
+,Brachythecium fendleri,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium fendleri,,,60
+,Brachythecium frigidum,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium frigidum,,,60
+,Brachythecium holzingeri,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium holzingeri,,,60
+,Brachythecium leibergii,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium leibergii,,,60
+,Brachythecium nelsonii,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium nelsonii,,,60
+,Brachythecium rivulare,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium rivulare,,,60
+,Brachythecium rutabulum,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium rutabulum,,,60
+,Brachythecium salebrosum,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium salebrosum,,,60
+,Brachythecium velutinum,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium velutinum,,,60
+,Brachythecium venustum,Brachythecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Brachythecium,,Brachythecium venustum,,,60
+,Eurhynchiastrum,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Eurhynchiastrum,,,,,50
+,Eurhynchiastrum pulchellum,Eurhynchiastrum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Eurhynchiastrum,,Eurhynchiastrum pulchellum,,,60
+,Homalothecium,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Homalothecium,,,,,50
+,Homalothecium aureum,Homalothecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Homalothecium,,Homalothecium aureum,,,60
+,Homalothecium californicum,Homalothecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Homalothecium,,Homalothecium californicum,,,60
+,Homalothecium fulgescens ,Homalothecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Homalothecium,,Homalothecium fulgescens ,,,60
+,Homalothecium nevadense,Homalothecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Homalothecium,,Homalothecium nevadense,,,60
+,Homalothecium nuttallii,Homalothecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Homalothecium,,Homalothecium nuttallii,,,60
+,Homalothecium pinnatifidum,Homalothecium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Homalothecium,,Homalothecium pinnatifidum,,,60
+,Kindbergia,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Kindbergia,,,,,50
+,Kindbergia oregana,Kindbergia,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Kindbergia,,Kindbergia oregana,,,60
+,Kindbergia praelonga,Kindbergia,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Kindbergia,,Kindbergia praelonga,,,60
+,Platyhypnidium,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Platyhypnidium,,,,,50
+,Platyhypnidium pringlei,Platyhypnidium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Platyhypnidium,,Platyhypnidium pringlei,,,60
+,Platyhypnidium riparioides,Platyhypnidium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Platyhypnidium,,Platyhypnidium riparioides,,,60
+,Pseudoscleropodium,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Platyhypnidium,,Pseudoscleropodium,,,50
+,Pseudoscleropodium purum,Pseudoscleropodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Platyhypnidium,,Pseudoscleropodium purum,,,60
+,Rhynchostegium,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Rhynchostegium,,,,,50
+,Rhynchostegium aquaticum,Rhynchostegium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Rhynchostegium,,Rhynchostegium aquaticum,,,60
+,Rhynchostegium serrulatum,Rhynchostegium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Rhynchostegium,,Rhynchostegium serrulatum,,,60
+,Scleropodium,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Scleropodium,,,,,50
+,Scleropodium californicum,Scleropodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Scleropodium,,Scleropodium californicum,,,60
+,Scleropodium cespitans,Scleropodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Scleropodium,,Scleropodium cespitans,,,60
+,Scleropodium julaceum,Scleropodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Scleropodium,,Scleropodium julaceum,,,60
+,Scleropodium obtusifolium,Scleropodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Scleropodium,,Scleropodium obtusifolium,,,60
+,Scleropodium touretii,Scleropodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Scleropodium,,Scleropodium touretii,,,60
+,Bryaceae,Bryales,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,,,,,,40
+,Fabronia,Fabroniaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Fabroniaceae,,,,Fabronia,,,,,50
+,Fabronia pusilla,Fabronia,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Fabroniaceae,,,,Fabronia,,Fabronia pusilla,,,60
+,Mniaceae,Bryales,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,,,,,,40
+,Dichelyma,Fontinalaceae,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Dichelyma,,,,,50
+,Dichelyma uncinatum,Dichelyma,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Dichelyma,,Dichelyma uncinatum,,,60
+,Fontinalis,Fontinalaceae,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Fontinalis,,,,,50
+,Fontinalis antipyretica,Fontinalis,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Fontinalis,,Fontinalis antipyretica,,,60
+,Fontinalis chrysophylla,Fontinalis,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Fontinalis,,Fontinalis chrysophylla,,,60
+,Fontinalis gigantea,Fontinalis,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Fontinalis,,Fontinalis gigantea,,,60
+,Fontinalis howellii,Fontinalis,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Fontinalis,,Fontinalis howellii,,,60
+,Fontinalis mollis,Fontinalis,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Fontinalis,,Fontinalis mollis,,,60
+,Fontinalis neomexicana,Fontinalis,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,Fontinalis,,Fontinalis neomexicana,,,60
+,Mielichhoferiaceae,Bryales,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,,,,,,40
+,Claopodium,Leskeaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Claopodium,,,,,50
+,Claopodium bolanderi,Claopodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Claopodium,,Claopodium bolanderi,,,60
+,Claopodium crispifolium,Claopodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Claopodium,,Claopodium crispifolium,,,60
+,Claopodium whippleanum,Claopodium,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Claopodium,,Claopodium whippleanum,,,60
+,Leskea,Leskeaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Leskea,,,,,50
+,Leskea polycarpa,Leskea,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Leskea,,Leskea polycarpa,,,60
+,Pseudoleskea,Leskeaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskea,,,,,50
+,Pseudoleskea incurvata,Pseudoleskea,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskea,,Pseudoleskea incurvata,,,60
+,Pseudoleskea patens,Pseudoleskea,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskea,,Pseudoleskea patens,,,60
+,Pseudoleskea radicosa,Pseudoleskea,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskea,,Pseudoleskea radicosa,,,60
+,Pseudoleskea radicosa var. pallida,Pseudoleskea,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskea,,Pseudoleskea radicosa,,Pseudoleskea radicosa var. pallida,66
+,Pseudoleskea saviana,Pseudoleskea,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskea,,Pseudoleskea saviana,,,60
+,Pseudoleskea stenophylla,Pseudoleskea,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskea,,Pseudoleskea stenophylla,,,60
+,Pseudoleskea tribulosa,Pseudoleskea,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskea,,Pseudoleskea tribulosa,,,60
+,Pseudoleskeella,Leskeaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskeella,,,,,50
+,Pseudoleskeella serpentinensis,Pseudoleskeella,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskeella,,Pseudoleskeella serpentinensis,,,60
+,Pseudoleskeella tectorum,Pseudoleskeella,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,Pseudoleskeella,,Pseudoleskeella tectorum,,,60
+,Ditrichaceae,Dicranales,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,,,,,,40
+,Aulacomnium,Aulacomniaceae,Bryophyta,,,Bryopsida,Bryidae,,Aulacomniales,,,Aulacomniaceae,,,,Aulacomnium,,,,,50
+,Aulacomnium androgynum,Aulacomnium,Bryophyta,,,Bryopsida,Bryidae,,Aulacomniales,,,Aulacomniaceae,,,,Aulacomnium,,Aulacomnium androgynum,,,60
+,Aulacomnium palustre,Aulacomnium,Bryophyta,,,Bryopsida,Bryidae,,Aulacomniales,,,Aulacomniaceae,,,,Aulacomnium,,Aulacomnium palustre,,,60
+,Fissidentaceae,Dicranales,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,,,,,,40
+,Anacolia,Bartramiaceae,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Anacolia,,,,,50
+,Anacolia baueri,Anacolia,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Anacolia,,Anacolia baueri,,,60
+,Anacolia laevisphaera,Anacolia,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Anacolia,,Anacolia laevisphaera,,,60
+,Anacolia menziesii,Anacolia,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Anacolia,,Anacolia menziesii,,,60
+,Bartramia,Bartramiaceae,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Bartramia,,,,,50
+,Bartramia ithyphylla,Bartramia,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Bartramia,,Bartramia ithyphylla,,,60
+,Bartramia pomiformis,Bartramia,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Bartramia,,Bartramia pomiformis,,,60
+,Bartramia stricta,Bartramia,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Bartramia,,Bartramia stricta,,,60
+,Philonotis,Bartramiaceae,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,,,,50
+,Philonotis americana,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis americana,,,60
+,Philonotis caespitosa,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis caespitosa,,,60
+,Philonotis calcarea,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis calcarea,,,60
+,Philonotis capillaris,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis capillaris,,,60
+,Philonotis fontanus,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis fontanus,,,60
+,Philonotis marchica,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis marchica,,,60
+,Philonotis muhlenbergii,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis muhlenbergii,,,60
+,Philonotis tomentella,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis tomentella,,,60
+,Philonotis yezoana,Philonotis,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Philonotis,,Philonotis yezoana,,,60
+,Conostomum,Bartramiaceae,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Conostomum,,,,,50
+,Conostomum tetragonum,Conostomum,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,Bartramiaceae,,,,Conostomum,,Conostomum tetragonum,,,60
+,Funariaceae,Funariales,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,,,,,,40
+,Anomobryum,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Anomobryum,,,,,50
+,Anomobryum concinnatum,Anomobryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Anomobryum,,Anomobryum concinnatum,,,60
+,Anomobryum julaceum,Anomobryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Anomobryum,,Anomobryum julaceum,,,60
+,Bryum,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Bryum,,,,,50
+,Bryum argentum,Bryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Bryum,,Bryum argentum,,,60
+,Bryum blindii,Bryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Bryum,,Bryum blindii,,,60
+,Bryum calobryoides,Bryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Bryum,,Bryum calobryoides,,,60
+,Bryum chryseum,Bryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Bryum,,Bryum chryseum,,,60
+,Bryum lanatum,Bryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Bryum,,Bryum lanatum,,,60
+,Gemmabryum,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,,,,50
+,Gemmabryum barnesii,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum barnesii,,,60
+,Gemmabryum caespiticium,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum caespiticium,,,60
+,Gemmabryum californicum,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum californicum,,,60
+,Gemmabryum dichotomum,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum dichotomum,,,60
+,Gemmabryum gemmiferum,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum gemmiferum,,,60
+,Gemmabryum gemmilucens,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum gemmilucens,,,60
+,Gemmabryum klinggraeffii,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum klinggraeffii,,,60
+,Gemmabryum kunzei,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum kunzei,,,60
+,Gemmabryum radiculosum,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum radiculosum,,,60
+,Gemmabryum subapiculatum,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum subapiculatum,,,60
+,Gemmabryum tenuisetum,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum tenuisetum,,,60
+,Gemmabryum valparaisense,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum valparaisense,,,60
+,Gemmabryum violaceum,Gemmabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Gemmabryum,,Gemmabryum violaceum,,,60
+,Haplodontium,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Haplodontium,,,,,50
+,Haplodontium tehamense,Haplodontium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Haplodontium,,Haplodontium tehamense,,,60
+,Imbribryum,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Imbribryum,,,,,50
+,Imbribryum alpinum,Imbribryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Imbribryum,,Imbribryum alpinum,,,60
+,Imbribryum gemmiparum,Imbribryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Imbribryum,,Imbribryum gemmiparum,,,60
+,Imbribryum microchaeton,Imbribryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Imbribryum,,Imbribryum microchaeton,,,60
+,Imbribryum mildeanum,Imbribryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Imbribryum,,Imbribryum mildeanum,,,60
+,Imbribryum miniatum,Imbribryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Imbribryum,,Imbribryum miniatum,,,60
+,Imbribryum muhlenbeckii,Imbribryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Imbribryum,,Imbribryum muhlenbeckii,,,60
+,Imbribryum sp. nov.,Imbribryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Imbribryum,,Imbribryum sp. nov.,,,60
+,Plagiobryoides,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Plagiobryiodes,,,,,50
+,Plagiobryoides vinosula,Plagiobryoides,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Plagiobryiodes,,Plagiobryoides vinosula,,,60
+,Ptychostomum,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,,,,50
+,Ptychostomum arcticum,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum arcticum,,,60
+,Ptychostomum badium,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum badium,,,60
+,Ptychostomum bimum,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum bimum,,,60
+,Ptychostomum cernuum,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum cernuum,,,60
+,Ptychostomum creberrimum,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum creberrimum,,,60
+,Ptychostomum cyclophyllum,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum cyclophyllum,,,60
+,Ptychostomum inclinatum,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum inclinatum,,,60
+,Ptychostomum lonchocaulon,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum lonchocaulon,,,60
+,Ptychostomum neodamense,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum neodamense,,,60
+,Ptychostomum pallens,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum pallens,,,60
+,Ptychostomum pallescens,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum pallescens,,,60
+,Ptychostomum pseudotriquetrum,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum pseudotriquetrum,,,60
+,Ptychostomum schleicheri,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum schleicheri,,,60
+,Ptychostomum turbinatum,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum turbinatum,,,60
+,Ptychostomum weigelii,Ptychostomum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Ptychostomum,,Ptychostomum weigelii,,,60
+,Roellia,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Roellia,,,,,50
+,Roellia roellia,Roellia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Roellia,,Roellia roellia,,,60
+,Rosulabryum,Bryaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,,,,50
+,Rosulabryum canariense,Rosulabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,Rosulabryum canariense,,,60
+,Rosulabryum capillare,Rosulabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,Rosulabryum capillare,,,60
+,Rosulabryum elegans,Rosulabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,Rosulabryum elegans,,,60
+,Rosulabryum flaccidum,Rosulabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,Rosulabryum flaccidum,,,60
+,Rosulabryum gemmascens,Rosulabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,Rosulabryum gemmascens,,,60
+,Rosulabryum laevifilum,Rosulabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,Rosulabryum laevifilum,,,60
+,Rosulabryum rubens,Rosulabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,Rosulabryum rubens,,,60
+,Rosulabryum torquescens,Rosulabryum,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Bryaceae,,,,Rosulabryum,,Rosulabryum torquescens,,,60
+,Grimmiaceae,Grimmiales,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,,,,,,40
+,Ceratodon,Ditrichaceae,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ceratodon,,,,,50
+,Ceratodon purpureus,Ceratodon,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ceratodon,,Ceratodon purpureus,,,60
+,Ceratodon stenocarpus,Ceratodon,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ceratodon,,Ceratodon stenocarpus,,,60
+,Distichium,Ditrichaceae,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Distichium,,,,,50
+,Distichium capillaceum,Distichium,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Distichium,,Distichium capillaceum,,,60
+,Distichium inclinatum,Distichium,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Distichium,,Distichium inclinatum,,,60
+,Ditrichum,Ditrichaceae,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ditrichum,,,,,50
+,Ditrichum ambiguum,Ditrichum,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ditrichum,,Ditrichum ambiguum,,,60
+,Ditrichum heteromallum,Ditrichum,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ditrichum,,Ditrichum heteromallum,,,60
+,Ditrichum montanum,Ditrichum,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ditrichum,,Ditrichum montanum,,,60
+,Ditrichum pusillum,Ditrichum,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ditrichum,,Ditrichum pusillum,,,60
+,Ditrichum schimperi,Ditrichum,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Ditrichum,,Ditrichum schimperi,,,60
+,Pleuridium,Ditrichaceae,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Pleuridium,,,,,50
+,Pleuridium acuminatum,Pleuridium,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Pleuridium,,Pleuridium acuminatum,,,60
+,Pleuridium mexicanum,Pleuridium,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Pleuridium,,Pleuridium mexicanum,,,60
+,Pleuridium subulatum,Pleuridium,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Pleuridium,,Pleuridium subulatum,,,60
+,Trichodon,Ditrichaceae,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Trichodon,,,,,50
+,Trichodon cylindricus,Trichodon,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Ditrichaceae,,,,Trichodon,,Trichodon cylindricus,,,60
+,Hedwigiaceae,Hedwigiales,Bryophyta,,,Bryopsida,Bryidae,,Hedwigiales,,,Hedwigiaceae,,,,,,,,,40
+,Fissidens,Fissidentaceae,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,,,,50
+,Fissidens aphelotaxifolius,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens aphelotaxifolius,,,60
+,Fissidens bryoides,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens bryoides,,,60
+,Fissidens crispus,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens crispus,,,60
+,Fissidens curvatus,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens curvatus,,,60
+,Fissidens dubius,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens dubius,,,60
+,Fissidens fontanus,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens fontanus,,,60
+,Fissidens grandifrons,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens grandifrons,,,60
+,Fissidens obtusifolius,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens obtusifolius,,,60
+,Fissidens pauperculus,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens pauperculus,,,60
+,Fissidens taxifolius,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens taxifolius,,,60
+,Fissidens taylorii,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens taylorii,,,60
+,Fissidens ventricosus,Fissidens,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,Fissidentaceae,,,,Fissidens,,Fissidens ventricosus,,,60
+,Amblystegiaceae,Hypnales,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Amblystegiaceae,,,,,,,,,40
+,Entosthodon,Funariaceae,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Entosthodon,,,,,50
+,Entosthodon californicus,Entosthodon,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Entosthodon,,Entosthodon californicus,,,60
+,Entosthodon drummondii,Entosthodon,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Entosthodon,,Entosthodon drummondii,,,60
+,Entosthodon fascicularis,Entosthodon,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Entosthodon,,Entosthodon fascicularis,,,60
+,Entosthodon kochii,Entosthodon,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Entosthodon,,Entosthodon kochii,,,60
+,Entosthodon rubrisetus,Entosthodon,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Entosthodon,,Entosthodon rubrisetus,,,60
+,Entosthodon tusconi,Entosthodon,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Entosthodon,,Entosthodon tusconi,,,60
+,Funaria,Funariaceae,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Funaria,,,,,50
+,Funaria convexa,Funaria,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Funaria,,Funaria convexa,,,60
+,Funaria hygrometrica,Funaria,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Funaria,,Funaria hygrometrica,,,60
+,Funaria microstoma,Funaria,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Funaria,,Funaria microstoma,,,60
+,Funaria muhlenbergii,Funaria,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Funaria,,Funaria muhlenbergii,,,60
+,Physcomitrella,Funariaceae,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Physcomitrella,,,,,50
+,Physcomitrella patens,Physcomitrella,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Physcomitrella,,Physcomitrella patens,,,60
+,Physcomitrella readeri,Physcomitrella,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Physcomitrella,,Physcomitrella readeri,,,60
+,Physcomitrium,Funariaceae,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Physcomitrium,,,,,50
+,Physcomitrium californicum,Physcomitrium,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Physcomitrium,,Physcomitrium californicum,,,60
+,Physcomitrium collenchymatum,Physcomitrium,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Physcomitrium,,Physcomitrium collenchymatum,,,60
+,Physcomitrium hookeri,Physcomitrium,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Physcomitrium,,Physcomitrium hookeri,,,60
+,Physcomitrium pyriforme,Physcomitrium,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,Funariaceae,,,,Physcomitrium,,Physcomitrium pyriforme,,,60
+,Brachytheciaceae,Hypnales,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,,,,,,40
+,Bucklandiella,Grimmiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,,,,50
+,Bucklandiella affinis,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella affinis,,,60
+,Bucklandiella heteroscticha,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella heteroscticha,,,60
+,Bucklandiella lawtoniae,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella lawtoniae,,,60
+,Bucklandiella macounii,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella macounii,,,60
+,Bucklandiella microcarpa,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella microcarpa,,,60
+,Bucklandiella obesa,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella obesa,,,60
+,Bucklandiella occidentalis,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella occidentalis,,,60
+,Bucklandiella pacifica,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella pacifica,,,60
+,Bucklandiella sudetica,Bucklandiella,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Bucklandiella,,Bucklandiella sudetica,,,60
+,Codriophorus,Grimmiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Codriophorus,,,,,50
+,Codriophorus depressus,Codriophorus,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Codriophorus,,Codriophorus depressus,,,60
+,Codriophorus norrissii,Codriophorus,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Codriophorus,,Codriophorus norrissii,,,60
+,Coscinodon,Grimmiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Coscinodon,,,,,50
+,Coscinodon calyptratus,Coscinodon,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Coscinodon,,Coscinodon calyptratus,,,60
+,Coscinodon sp. nov.,Coscinodon,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Coscinodon,,Coscinodon sp. nov.,,,60
+,Grimmia,Grimmiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,,,,50
+,Grimmia alpestris,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia alpestris,,,60
+,Grimmia anodon,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia anodon,,,60
+,Grimmia anomola,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia anomola,,,60
+,Grimmia arizonae,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia arizonae,,,60
+,Grimmia caespiticia,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia caespiticia,,,60
+,Grimmia hamulosa,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia hamulosa,,,60
+,Grimmia incurva,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia incurva,,,60
+,Grimmia laevigata,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia laevigata,,,60
+,Grimmia leibergii,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia leibergii,,,60
+,Grimmia lesherae,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia lesherae,,,60
+,Grimmia lisae,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia lisae,,,60
+,Grimmia longirostris,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia longirostris,,,60
+,Grimmia mariniana,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia mariniana,,,60
+,Grimmia montana,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia montana,,,60
+,Grimmia moxleyi,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia moxleyi,,,60
+,Grimmia nevadensis,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia nevadensis,,,60
+,Grimmia orbicularis,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia orbicularis,,,60
+,Grimmia ovalis,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia ovalis,,,60
+,Grimmia plagiopodia,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia plagiopodia,,,60
+,Grimmia poecilostoma,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia poecilostoma,,,60
+,Grimmia pulvinata,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia pulvinata,,,60
+,Grimmia raymondii,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia raymondii,,,60
+,Grimmia serrana,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia serrana,,,60
+,Grimmia sessitana,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia sessitana,,,60
+,Grimmia shastae,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia shastae,,,60
+,Grimmia torenii,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia torenii,,,60
+,Grimmia torquata,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia torquata,,,60
+,Grimmia trichophylla,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia trichophylla,,,60
+,Grimmia unicolor,Grimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Grimmia,,Grimmia unicolor,,,60
+,Hydrogrimmia,Grimmiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Hydrogrimmia,,,,,50
+,Hydrogrimmia mollis,Hydrogrimmia,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Hydrogrimmia,,Hydrogrimmia mollis,,,60
+,Niphotrichum,Grimmiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Niphotrichum,,,,,50
+,Niphotrichum elongatum,Niphotrichum,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Niphotrichum,,Niphotrichum elongatum,,,60
+,Niphotrichum ericoides,Niphotrichum,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Niphotrichum,,Niphotrichum ericoides,,,60
+,Racomitrium,Grimmiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Racomitrium,,,,,50
+,Racomitrium lanuginosum,Racomitrium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Racomitrium,,Racomitrium lanuginosum,,,60
+,Schistidium,Grimmiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,,,,50
+,Schistidium agassizii,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium agassizii,,,60
+,Schistidium atrichum,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium atrichum,,,60
+,Schistidium cinclidodonteum,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium cinclidodonteum,,,60
+,Schistidium confertum,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium confertum,,,60
+,Schistidium dupretii,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium dupretii,,,60
+,Schistidium flaccidum,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium flaccidum,,,60
+,Schistidium maritimum,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium maritimum,,,60
+,Schistidium occidentale,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium occidentale,,,60
+,Schistidium platyphyllum,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium platyphyllum,,,60
+,Schistidium rivulare,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium rivulare,,,60
+,Schistidium tenerum,Schistidium,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,Grimmiaceae,,,,Schistidium,,Schistidium tenerum,,,60
+,Fabroniaceae,Hypnales,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Fabroniaceae,,,,,,,,,40
+,Hedwigia,Hedwigiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hedwigiales,,,Hedwigiaceae,,,,Hedwigia,,,,,50
+,Hedwigia ciliata,Hedwigia,Bryophyta,,,Bryopsida,Bryidae,,Hedwigiales,,,Hedwigiaceae,,,,Hedwigia,,Hedwigia ciliata,,,60
+,Hedwigia detonsa,Hedwigia,Bryophyta,,,Bryopsida,Bryidae,,Hedwigiales,,,Hedwigiaceae,,,,Hedwigia,,Hedwigia detonsa,,,60
+,Hedwigia stellata,Hedwigia,Bryophyta,,,Bryopsida,Bryidae,,Hedwigiales,,,Hedwigiaceae,,,,Hedwigia,,Hedwigia stellata,,,60
+,Pseudobraunia,Hedwigiaceae,Bryophyta,,,Bryopsida,Bryidae,,Hedwigiales,,,Hedwigiaceae,,,,Pseudobraunia,,,,,50
+,Pseudobraunia californica,Pseudobraunia,Bryophyta,,,Bryopsida,Bryidae,,Hedwigiales,,,Hedwigiaceae,,,,Pseudobraunia,,Pseudobraunia californica,,,60
+,Fontinalaceae,Hypnales,Bryophyta,,,Bryopsida,,,Hypnales,,,Fontinalaceae,,,,,,,,,40
+,Leptobryum,Meesiaceae,Bryophyta,,,Bryopsida,Bryidae,,Splachnales,,,Meesiaceae,,,,Leptobryum,,,,,50
+,Leptobryum pyriforme,Leptobryum,Bryophyta,,,Bryopsida,Bryidae,,Splachnales,,,Meesiaceae,,,,Leptobryum,,Leptobryum pyriforme,,,60
+,Meesia,Meesiaceae,Bryophyta,,,Bryopsida,Bryidae,,Splachnales,,,Meesiaceae,,,,Meesia,,,,,50
+,Meesia longiseta,Meesia,Bryophyta,,,Bryopsida,Bryidae,,Splachnales,,,Meesiaceae,,,,Meesia,,Meesia longiseta,,,60
+,Meesia triquetra,Meesia,Bryophyta,,,Bryopsida,Bryidae,,Splachnales,,,Meesiaceae,,,,Meesia,,Meesia triquetra,,,60
+,Meesia uliginosa,Meesia,Bryophyta,,,Bryopsida,Bryidae,,Splachnales,,,Meesiaceae,,,,Meesia,,Meesia uliginosa,,,60
+,Leskeaceae,Hypnales,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Leskeaceae,,,,,,,,,40
+,Epipterygium,Mielichhoferiaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Epipterygium,,,,,50
+,Epipterygium tozeri,Epipterygium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Epipterygium,,Epipterygium tozeri,,,60
+,Leucolepis,Mniaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Leucolepis,,,,,50
+,Leucolepis acanthoneura,Leucolepis,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Leucolepis,,Leucolepis acanthoneura,,,60
+,Mielichhoferia,Mielichhoferiaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Mielichhoferia,,,,,50
+,Mielichhoferia elongata,Mielichhoferia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Mielichhoferia,,Mielichhoferia elongata,,,60
+,Mielichhoferia mielichhoferniana,Mielichhoferia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Mielichhoferia,,Mielichhoferia mielichhoferniana,,,60
+,Mielichhoferia shevockii,Mielichhoferia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Mielichhoferia,,Mielichhoferia shevockii,,,60
+,Mnium,Mniaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Mnium,,,,,50
+,Mnium arizonicum,Mnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Mnium,,Mnium arizonicum,,,60
+,Mnium blyttii,Mnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Mnium,,Mnium blyttii,,,60
+,Mnium marginatum,Mnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Mnium,,Mnium marginatum,,,60
+,Mnium spinulosum,Mnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Mnium,,Mnium spinulosum,,,60
+,Mnium thomsonii,Mnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Mnium,,Mnium thomsonii,,,60
+,Plagiomnium,Mniaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Plagiomnium,,,,,50
+,Plagiomnium cuspidatum,Plagiomnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Plagiomnium,,Plagiomnium cuspidatum,,,60
+,Plagiomnium ellipticum,Plagiomnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Plagiomnium,,Plagiomnium ellipticum,,,60
+,Plagiomnium insigne,Plagiomnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Plagiomnium,,Plagiomnium insigne,,,60
+,Plagiomnium medium,Plagiomnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Plagiomnium,,Plagiomnium medium,,,60
+,Plagiomnium rostratum,Plagiomnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Plagiomnium,,Plagiomnium rostratum,,,60
+,Plagiomnium venustum,Plagiomnium,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mniaceae,,,,Plagiomnium,,Plagiomnium venustum,,,60
+,Orthotrichaceae,Orthotrichales,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,,,,,,40
+,Pohlia,Mielichhoferiaceae,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,,,,50
+,Pohlia andaluscia,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia andaluscia,,,60
+,Pohlia annotina,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia annotina,,,60
+,Pohlia bolanderi,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia bolanderi,,,60
+,Pohlia camptotrachela,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia camptotrachela,,,60
+,Pohlia cardotii,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia cardotii,,,60
+,Pohlia cruda,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia cruda,,,60
+,Pohlia dummondii,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia dummondii,,,60
+,Pohlia elongata,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia elongata,,,60
+,Pohlia filum,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia filum,,,60
+,Pohlia flexuosa,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia flexuosa,,,60
+,Pohlia lescuriana,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia lescuriana,,,60
+,Pohlia longibracteata,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia longibracteata,,,60
+,Pohlia ludwigii,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia ludwigii,,,60
+,Pohlia nutans,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia nutans,,,60
+,Pohlia obtusifolia,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia obtusifolia,,,60
+,Pohlia pacifica,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia pacifica,,,60
+,Pohlia proligera,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia proligera,,,60
+,Pohlia robertsonnii,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia robertsonnii,,,60
+,Pohlia tundrae,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia tundrae,,,60
+,Pohlia wahlenbergii,Pohlia,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,Mielichhoferiaceae,,,,Pohlia,,Pohlia wahlenbergii,,,60
+,Pottiaceae,Pottiales,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,,,,,,40
+,Orthotrichum,Orthotrichaceae,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,,,,50
+,Orthotrichum affine,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum affine,,,60
+,Orthotrichum alpestre,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum alpestre,,,60
+,Orthotrichum anodon,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum anodon,,,60
+,Orthotrichum bolanderi,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum bolanderi,,,60
+,Orthotrichum consimile,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum consimile,,,60
+,Orthotrichum coulteri,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum coulteri,,,60
+,Orthotrichum cupulatum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum cupulatum,,,60
+,Orthotrichum diaphanum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum diaphanum,,,60
+,Orthotrichum euryphyllum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum euryphyllum,,,60
+,Orthotrichum flowersii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum flowersii,,,60
+,Orthotrichum hallii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum hallii,,,60
+,Orthotrichum holzingeri,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum holzingeri,,,60
+,Orthotrichum kellmanii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum kellmanii,,,60
+,Orthotrichum laevigatum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum laevigatum,,,60
+,Orthotrichum lyellii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum lyellii,,,60
+,Orthotrichum macounii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum macounii,,,60
+,Orthotrichum norissii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum norissii,,,60
+,Orthotrichum pallens,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum pallens,,,60
+,Orthotrichum papillosum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum papillosum,,,60
+,Orthotrichum pellucidum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum pellucidum,,,60
+,Orthotrichum praemorsum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum praemorsum,,,60
+,Orthotrichum pulchellum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum pulchellum,,,60
+,Orthotrichum pumilum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum pumilum,,,60
+,Orthotrichum pylaisii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum pylaisii,,,60
+,Orthotrichum rivulare,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum rivulare,,,60
+,Orthotrichum rupestre,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum rupestre,,,60
+,Orthotrichum schimperi,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum schimperi,,,60
+,Orthotrichum shawii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum shawii,,,60
+,Orthotrichum shevockii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum shevockii,,,60
+,Orthotrichum speciosum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum speciosum,,,60
+,Orthotrichum striatum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum striatum,,,60
+,Orthotrichum texanum,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum texanum,,,60
+,Orthotrichum unerwoodii,Orthotrichum,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,Orthotrichaceae,,,,Orthotrichum,,Orthotrichum unerwoodii,,,60
+,Meesiaceae,Splachnales,Bryophyta,,,Bryopsida,Bryidae,,Splachnales,,,Meesiaceae,,,,,,,,,40
+,Acaulon,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Acaulon,,,,,50
+,Acaulon rufescens,Acaulon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Acaulon,,Acaulon rufescens,,,60
+,Acaulon triquetrum,Acaulon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Acaulon,,Acaulon triquetrum,,,60
+,Aloina,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Aloina,,,,,50
+,Aloina ambigua,Aloina,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Aloina,,Aloina ambigua,,,60
+,Aloina bifrons,Aloina,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Aloina,,Aloina bifrons,,,60
+,Aloina rigida,Aloina,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Aloina,,Aloina rigida,,,60
+,Anoectangium,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Anoectangium,,,,,50
+,Anoectangium handelii,Anoectangium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Anoectangium,,Anoectangium handelii,,,60
+,Barbula,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Barbula,,,,,50
+,Barbula bolleana,Barbula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Barbula,,Barbula bolleana,,,60
+,Barbula convoluta,Barbula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Barbula,,Barbula convoluta,,,60
+,Barbula eustegia,Barbula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Barbula,,Barbula eustegia,,,60
+,Barbula unguiculata,Barbula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Barbula,,Barbula unguiculata,,,60
+,Bryoerythrophyllum,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Bryoerythrophyllum,,,,,50
+,Bryoerythrophyllum columbianum,Bryoerythrophyllum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Bryoerythrophyllum,,Bryoerythrophyllum columbianum,,,60
+,Bryoerythrophyllum ferruginascens,Bryoerythrophyllum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Bryoerythrophyllum,,Bryoerythrophyllum ferruginascens,,,60
+,Bryoerythrophyllum recurvirostrum,Bryoerythrophyllum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Bryoerythrophyllum,,Bryoerythrophyllum recurvirostrum,,,60
+,Crossidium,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Crossidium,,,,,50
+,Crossidium aberrans,Crossidium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Crossidium,,Crossidium aberrans,,,60
+,Crossidium crassinerve,Crossidium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Crossidium,,Crossidium crassinerve,,,60
+,Crossidium seriatum,Crossidium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Crossidium,,Crossidium seriatum,,,60
+,Crossidium squamiferum,Crossidium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Crossidium,,Crossidium squamiferum,,,60
+,Crumia,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Crumia,,,,,50
+,Crumia latifolia,Crumia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Crumia,,Crumia latifolia,,,60
+,Didymodon,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,,,,50
+,Didymodon australasiae,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon australasiae,,,60
+,Didymodon bistratosus,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon bistratosus,,,60
+,Didymodon brachyphyllus,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon brachyphyllus,,,60
+,Didymodon eckeliae,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon eckeliae,,,60
+,Didymodon fallax,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon fallax,,,60
+,Didymodon ferrgineus,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon ferrgineus,,,60
+,Didymodon Insulanus,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon Insulanus,,,60
+,Didymodon nicholsonii,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon nicholsonii,,,60
+,Didymodon norrisii,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon norrisii,,,60
+,Didymodon occidentalis,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon occidentalis,,,60
+,Didymodon revolutus,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon revolutus,,,60
+,Didymodon rigidulus,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon rigidulus,,,60
+,Didymodon tectorum,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon tectorum,,,60
+,Didymodon tophaceus,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon tophaceus,,,60
+,Didymodon umbrosus,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon umbrosus,,,60
+,Didymodon vinealis,Didymodon,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Didymodon,,Didymodon vinealis,,,60
+,Ephemerum,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Ephemerum,,,,,50
+,Ephemerum serratum,Ephemerum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Ephemerum,,Ephemerum serratum,,,60
+,Eucladium,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Eucladium,,,,,50
+,Eucladium verticillatum,Eucladium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Eucladium,,Eucladium verticillatum,,,60
+,Gymnostomum,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Gymnostomum,,,,,50
+,Gymnostomum aeruginosum,Gymnostomum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Gymnostomum,,Gymnostomum aeruginosum,,,60
+,Gymnostomum calcareum,Gymnostomum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Gymnostomum,,Gymnostomum calcareum,,,60
+,Gymnostomum viridulum,Gymnostomum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Gymnostomum,,Gymnostomum viridulum,,,60
+,Hennediella,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Hennediella,,,,,50
+,Hennediella heimii,Hennediella,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Hennediella,,Hennediella heimii,,,60
+,Hennediella stanfordensis,Hennediella,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Hennediella,,Hennediella stanfordensis,,,60
+,Hymenostylium,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Hymenostylium,,,,,50
+,Hymenostylium recurvirostrum,Hymenostylium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Hymenostylium,,Hymenostylium recurvirostrum,,,60
+,Leptophascum,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Leptophascum,,,,,50
+,Leptophascum leptophyllum,Leptophascum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Leptophascum,,Leptophascum leptophyllum,,,60
+,Microbryum,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Microbryum,,,,,50
+,Microbryum davallianum,Microbryum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Microbryum,,Microbryum davallianum,,,60
+,Microbryum starckeanum,Microbryum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Microbryum,,Microbryum starckeanum,,,60
+,Microbryum vlassovii,Microbryum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Microbryum,,Microbryum vlassovii,,,60
+,Micromitrium,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Micromitrium,,,,,50
+,Micromitrium tenerum,Micromitrium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Micromitrium,,Micromitrium tenerum,,,60
+,Oxystegus,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Oxystegus,,,,,50
+,Oxystegus tenuirostris,Oxystegus,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Oxystegus,,Oxystegus tenuirostris,,,60
+,Pseudocrossidium,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Pseudocrossidium,,,,,50
+,Pseudocrossidium crinitum,Pseudocrossidium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Pseudocrossidium,,Pseudocrossidium crinitum,,,60
+,Pseudocrossidium obtusulum,Pseudocrossidium,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Pseudocrossidium,,Pseudocrossidium obtusulum,,,60
+,Pterygoneurum,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Pterygoneurum,,,,,50
+,Pterygoneurum californicum,Pterygoneurum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Pterygoneurum,,Pterygoneurum californicum,,,60
+,Pterygoneurum lamellatum,Pterygoneurum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Pterygoneurum,,Pterygoneurum lamellatum,,,60
+,Pterygoneurum ovatum,Pterygoneurum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Pterygoneurum,,Pterygoneurum ovatum,,,60
+,Pterygoneurum subsessile,Pterygoneurum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Pterygoneurum,,Pterygoneurum subsessile,,,60
+,Scopelophila,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Scopelophila,,,,,50
+,Scopelophila cataractae,Scopelophila,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Scopelophila,,Scopelophila cataractae,,,60
+,Scopelophila ligulata,Scopelophila,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Scopelophila,,Scopelophila ligulata,,,60
+,Stegonia,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Stegonia,,,,,50
+,Stegonia hyalinotricha,Stegonia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Stegonia,,Stegonia hyalinotricha,,,60
+,Stegonia latifolia,Stegonia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Stegonia,,Stegonia latifolia,,,60
+,Stegonia pilifera,Stegonia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Stegonia,,Stegonia pilifera,,,60
+,Syntrichia,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,,,,50
+,Syntrichia bartramii,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia bartramii,,,60
+,Syntrichia caninervis,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia caninervis,,,60
+,Syntrichia laevipiloa,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia laevipiloa,,,60
+,Syntrichia latifolia,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia latifolia,,,60
+,Syntrichia montana,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia montana,,,60
+,Syntrichia norvegica,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia norvegica,,,60
+,Syntrichia obtusifolia,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia obtusifolia,,,60
+,Syntrichia pagorum,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia pagorum,,,60
+,Syntrichia papillosa,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia papillosa,,,60
+,Syntrichia papillosissima,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia papillosissima,,,60
+,Syntrichia princeps,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia princeps,,,60
+,Syntrichia ruralis,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia ruralis,,,60
+,Syntrichia sucrosa,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia sucrosa,,,60
+,Syntrichia viriscens,Syntrichia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Syntrichia,,Syntrichia viriscens,,,60
+,Timmiella,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Timmiella,,,,,50
+,Timmiella anomala,Timmiella,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Timmiella,,Timmiella anomala,,,60
+,Timmiella crassinervis,Timmiella,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Timmiella,,Timmiella crassinervis,,,60
+,Tortella,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortella,,,,,50
+,Tortella tortuosa,Tortella,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortella,,Tortella tortuosa,,,60
+,Tortula,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,,,,50
+,Tortula acaulon,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula acaulon,,,60
+,Tortula amplexa,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula amplexa,,,60
+,Tortula atrovirens,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula atrovirens,,,60
+,Tortula bolanderi,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula bolanderi,,,60
+,Tortula brevipes,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula brevipes,,,60
+,Tortula californica,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula californica,,,60
+,Tortula guepinii,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula guepinii,,,60
+,Tortula hoppeana,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula hoppeana,,,60
+,Tortula inermis,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula inermis,,,60
+,Tortula leucostoma,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula leucostoma,,,60
+,Tortula mucronifolia,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula mucronifolia,,,60
+,Tortula muralis,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula muralis,,,60
+,Tortula obtusifolia,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula obtusifolia,,,60
+,Tortula plinthobia,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula plinthobia,,,60
+,Tortula protobryoides,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula protobryoides,,,60
+,Tortula subulata,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula subulata,,,60
+,Tortula systylia,Tortula,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Tortula,,Tortula systylia,,,60
+,Trichostemmum,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Trichostemmum,,,,,50
+,Trichostemmum brachydontium,Trichostemmum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Trichostemmum,,Trichostemmum brachydontium,,,60
+,Trichostemmum crispulum,Trichostemmum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Trichostemmum,,Trichostemmum crispulum,,,60
+,Trichostemmum sweetii,Trichostemmum,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Trichostemmum,,Trichostemmum sweetii,,,60
+,Triquetrella,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Triquetrella,,,,,50
+,Triquetrella californica,Triquetrella,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Triquetrella,,Triquetrella californica,,,60
+,Weissia,Pottiaceae,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Weissia,,,,,50
+,Weissia condensa,Weissia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Weissia,,Weissia condensa,,,60
+,Weissia controversa,Weissia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Weissia,,Weissia controversa,,,60
+,Weissia inoperculata,Weissia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Weissia,,Weissia inoperculata,,,60
+,Weissia ligulaefolia,Weissia,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,Pottiaceae,,,,Weissia,,Weissia ligulaefolia,,,60
+,Aulacomniales,Bryopsida,Bryophyta,,,Bryopsida,Bryidae,,Aulacomniales,,,,,,,,,,,,30
+,Bartramiales,Bryopsida,Bryophyta,,,Bryopsida,Bryidae,,Bartramiales,,,,,,,,,,,,30
+,Bryales,Bryopsida,Bryophyta,,,Bryopsida,Bryidae,,Bryales,,,,,,,,,,,,30
+,Dicranales,Bryopsida,Bryophyta,,,Bryopsida,Dicranidae,,Dicranales,,,,,,,,,,,,30
+,Funariales,Bryopsida,Bryophyta,,,Bryopsida,Funariidae,,Funariales,,,,,,,,,,,,30
+,Grimmiales,Bryopsida,Bryophyta,,,Bryopsida,Dicranidae,,Grimmiales,,,,,,,,,,,,30
+,Hedwigiales,Bryopsida,Bryophyta,,,Bryopsida,Bryidae,,Hedwigiales,,,,,,,,,,,,30
+,Hypnales,Bryopsida,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,,,,,,,,,,30
+,Orthotrichales,Bryopsida,Bryophyta,,,Bryopsida,Bryidae,,Orthotrichales,,,,,,,,,,,,30
+,Pottiales,Bryopsida,Bryophyta,,,Bryopsida,Dicranidae,,Pottiales,,,,,,,,,,,,30
+,Splachnales,Bryopsida,Bryophyta,,,Bryopsida,Bryidae,,Splachnales,,,,,,,,,,,,30
+,Bryopsida,Bryophyta,Bryophyta,,,,,,,,,,,,,,,,,,20
+,Tomentypnum,Brachytheciaceae,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Tomentypnum,,,,,50
+,Tomentypnum nitens,Tomentypnum,Bryophyta,,,Bryopsida,Bryidae,,Hypnales,,,Brachytheciaceae,,,,Tomentypnum,,Tomentypnum nitens,,,60
