@@ -11,7 +11,7 @@ library(readxl)
 options(ENTREZ_KEY = "b2ccdcd6619a29d3bf31de74e7cde9a1c209")
 
 # import data / clean ---------------------------------
-tax_0<-read_csv("Data/VocabRequest_BryophyteSTE.csv") 
+tax_0<-read_csv("Data/VocabRequest_ArhtropodSTE.csv") 
 tax<-tax_0  %>% 
   mutate(Species=trimSpace(FinalID)) %>%
   filter(!is.na(Family))
@@ -31,7 +31,7 @@ src <- c("EOL", "The International Plant Names Index",
 result.long <-gnr_resolve(sci = as.character(tax$Species), data_source_ids = c(1,5,12,165,167), 
                           with_canonical_ranks=T)
 
-write_csv(result.long, "Outputs/Bryophyte_spellcheck.csv")
+write_csv(result.long, "Outputs/Arthropod_spellcheck.csv")
 
 taxa<-sort(unique(result.long$matched_name2))
 
@@ -39,15 +39,15 @@ taxa<-sort(unique(result.long$matched_name2))
 # BOLD -------------------------------------------------
 ###################################################
 
-#Look at seq_primers and marker_codes to see if it's rbcL vs trunL vs ITS COI or CO1
+
 
 bold_df_summary<-  lapply(taxa, function(x){
   print(x)
   mydf=bold_seqspec(x) 
   if(class(mydf)=="data.frame"){ 
     mydf<-mydf %>% 
-      mutate(Locus = case_when(str_detect(seq_primers %>% tolower(),"rbcl")~"rbcL",
-                               str_detect(seq_primers %>% tolower(),"trnl")~"trnL",
+      mutate(Locus = case_when(#str_detect(seq_primers %>% tolower(),"rbcl")~"rbcL",
+                               #str_detect(seq_primers %>% tolower(),"trnl")~"trnL",
                                str_detect(seq_primers %>% tolower(),"its")~"ITS",
                                str_detect(seq_primers %>% tolower(),"coi")~"COI",
                                str_detect(seq_primers %>% tolower(),"co1")~"COI",
@@ -104,7 +104,7 @@ bold_summary<-bold_df_summary %>%
   inner_join(tax)
 
 
-write_csv(bold_summary, file="Outputs/bryos_bold_summary.csv")
+write_csv(bold_summary, file="Outputs/arthro_bold_summary.csv")
 
 ###################################################
 # GENBANK -------------------------------------------------------------
@@ -128,13 +128,13 @@ gb_df_summary$GB_mito_fl_count<-sapply(gb_df_summary$taxa, function(x){
   print(paste(x, xdf$count))
   xdf$count
 })
-#chloroplast search
-gb_df_summary$GB_chloro_count<-sapply(gb_df_summary$taxa, function(x){
-  term.x = paste0(x,"[PORGN]", " AND 200:3400[SLEN]", " AND chloroplast[filter]")
-  xdf = entrez_search(db="nuccore", term=term.x, FILT=1, api_key="b2ccdcd6619a29d3bf31de74e7cde9a1c209"  )
-  print(paste(x, xdf$count))
-  xdf$count
-})
+# #chloroplast search
+# gb_df_summary$GB_chloro_count<-sapply(gb_df_summary$taxa, function(x){
+#   term.x = paste0(x,"[PORGN]", " AND 200:3400[SLEN]", " AND chloroplast[filter]")
+#   xdf = entrez_search(db="nuccore", term=term.x, FILT=1, api_key="b2ccdcd6619a29d3bf31de74e7cde9a1c209"  )
+#   print(paste(x, xdf$count))
+#   xdf$count
+# })
 
 #18S search
 gb_df_summary$GB_18S_count<-sapply(gb_df_summary$taxa, function(x){
@@ -161,7 +161,7 @@ gb_summary<-gb_df_summary %>%
   inner_join(tax)
 
 
-write_csv(gb_summary, file="Outputs/bryos_gb_summary.csv")
+write_csv(gb_summary, file="Outputs/arthro_gb_summary.csv")
 
 tax_bold_genbank<-tax %>%
   left_join(bold_df_summary %>%
@@ -187,7 +187,7 @@ tax_bold_genbank<-tax %>%
               ungroup() %>%
               pivot_wider(names_from=name, values_from=value) )
 
-write_csv(tax_bold_genbank, file="Outputs/bryos_bold_genbank.csv")
+write_csv(tax_bold_genbank, file="Outputs/arthros_bold_genbank.csv")
 
 
 
