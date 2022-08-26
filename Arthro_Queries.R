@@ -14,7 +14,8 @@ options(ENTREZ_KEY = "b2ccdcd6619a29d3bf31de74e7cde9a1c209")
 tax_0<-read_csv("Data/VocabRequest_ArhtropodSTE.csv") 
 tax<-tax_0  %>% 
   mutate(Species=trimSpace(FinalID)) %>%
-  filter(!is.na(Family))
+  # filter(!is.na(Family))
+  filter(TaxonomicLevelCode==50)
 taxa<-tax$Species
 #taxa<-(droplevels(taxa[1:10]))
 sort(taxa)
@@ -33,7 +34,15 @@ result.long <-gnr_resolve(sci = as.character(tax$Species), data_source_ids = c(1
 
 write_csv(result.long, "Outputs/Arthropod_spellcheck.csv")
 
-taxa<-sort(unique(result.long$matched_name2))
+result.long %>% select(user_supplied_name, matched_name2) %>% unique() %>%
+  group_by(user_supplied_name)  %>% mutate(n=length(matched_name2)) %>% filter(n>1) 
+
+# result.long %>% filter(user_supplied_name == "Tricholepididae")
+
+taxa<-#sort(unique(result.long$matched_name2))
+  intersect(taxa, result.long$matched_name2) %>% #Remove those with bad or unknown spellings
+  sort() %>%
+  unique()
 
 ###################################################
 # BOLD -------------------------------------------------
