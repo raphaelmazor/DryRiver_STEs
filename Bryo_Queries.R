@@ -36,30 +36,42 @@ write_csv(result.long, "Outputs/Bryophyte_spellcheck.csv")
 taxa<-sort(unique(result.long$matched_name2))
 
 
+#Run this code to find out what markers are commonly used in BOLD
+# junk<-bold_seqspec("Funariaceae")
+# junk %>% select(markercode) %>% unique() %>% dput()
+#Bryum c("rbcL", "trnL-F", "ITS2", "ITS", "", "rbcLa", "trnH-psbA", "COI-5P")
+#Tortula c("rbcLa", "trnL-F", "ITS2", "rbcL", "ITS", "")
+#Timmiella  c("trnL-F", "ITS2", "rbcL")
+#Pohlia c("ITS2", "trnL-F", "rbcLa", "", "rbcL", "ITS")
+#Pottiaceae c("ITS2", "trnL-F", "rbcLa", "rbcL", "matK", "ITS1", "ITS", "", "atpF-atpH", "trnH-psbA")
 ###################################################
 # BOLD -------------------------------------------------
 ###################################################
 
-#Look at seq_primers and marker_codes to see if it's rbcL vs trunL vs ITS COI or CO1
-
+#Look at seq_primers and marker_codes to see if it's rbcL vs trnL vs ITS COI or CO1 or matK
+#It's usually better to look at "markercode", but occasionally "marker_codes" has stuff too when markercode is blank
 bold_df_summary<-  lapply(taxa, function(x){
   print(x)
   mydf=bold_seqspec(x) 
   if(class(mydf)=="data.frame"){ 
     mydf<-mydf %>% 
-      mutate(Locus = case_when(str_detect(marker_codes %>% tolower(),"rbcl")~"rbcL",
-                               str_detect(marker_codes %>% tolower(),"trnl")~"trnL",
-                               str_detect(marker_codes %>% tolower(),"its")~"ITS",
-                               str_detect(marker_codes %>% tolower(),"coi")~"COI",
-                               str_detect(marker_codes %>% tolower(),"co1")~"COI",
-                               
-                               str_detect(markercode %>% tolower(),"rbcl")~"rbcL",
-                               str_detect(markercode %>% tolower(),"trnl")~"trnL",
-                               str_detect(markercode %>% tolower(),"its")~"ITS",
-                               str_detect(markercode %>% tolower(),"coi")~"COI",
-                               str_detect(markercode %>% tolower(),"co1")~"COI",
-                               
-                               T~"Other")) %>%
+      mutate(Locus = case_when( str_detect(markercode %>% tolower(),"rbcl")~"rbcL", #chloroplast
+                                str_detect(markercode %>% tolower(),"trnl")~"trnL", #chloroplast
+                                str_detect(markercode %>% tolower(),"its")~"ITS", #nuclear ribosomal
+                                str_detect(markercode %>% tolower(),"coi")~"COI",#mitochondria
+                                str_detect(markercode %>% tolower(),"co1")~"COI", #mitochondria
+                                str_detect(marker_codes %>% tolower(),"rbcl")~"rbcL", 
+                                str_detect(marker_codes %>% tolower(),"trnl")~"trnL",
+                                str_detect(marker_codes %>% tolower(),"its")~"ITS",
+                                str_detect(marker_codes %>% tolower(),"coi")~"COI",
+                                str_detect(marker_codes %>% tolower(),"co1")~"COI", 
+                                
+                                
+                                
+                                str_detect(markercode %>% tolower(),"matk")~"matK", #Chloroplast
+                                str_detect(marker_codes %>% tolower(),"matk")~"matK", #Chloroplast
+                                
+                                T~"Other")) %>%
       filter(Locus!="Other")
     xdf<-tibble(FinalID=x,
                 #Any sequence
@@ -90,7 +102,13 @@ bold_df_summary<-  lapply(taxa, function(x){
                 BOLD_Records_COI=sum(mydf$Locus=="COI", na.rm = T),
                 BOLD_Records_COI_USA=sum(mydf$Locus=="COI" & mydf$country=="United States", na.rm=T),
                 BOLD_Records_COI_CA=sum(mydf$Locus=="COI" &mydf$province_state=="California", na.rm=T),
-                BOLD_Records_COI_SW = sum( mydf$Locus=="COI" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T)
+                BOLD_Records_COI_SW = sum( mydf$Locus=="COI" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
+                
+                #matK, a chloroplast marker
+                BOLD_Records_matK=sum(mydf$Locus=="matK", na.rm = T),
+                BOLD_Records_matK_USA=sum(mydf$Locus=="matK" & mydf$country=="United States", na.rm=T),
+                BOLD_Records_matK_CA=sum(mydf$Locus=="matK" &mydf$province_state=="California", na.rm=T),
+                BOLD_Records_matK_SW = sum( mydf$Locus=="matK" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T)
                 
     )
   }
@@ -99,7 +117,10 @@ bold_df_summary<-  lapply(taxa, function(x){
                 BOLD_Records=0, BOLD_Records_USA=0, BOLD_Records_CA=0, BOLD_Records_SW = 0,
                 BOLD_Records_rbcL=0, BOLD_Records_rbcL_USA=0, BOLD_Records_rbcL_CA=0, BOLD_Records_rbcL_SW = 0,
                 BOLD_Records_trnL=0, BOLD_Records_trnL_USA=0, BOLD_Records_trnL_CA=0, BOLD_Records_trnL_SW = 0,
-                BOLD_Records_COI=0, BOLD_Records_COI_USA=0, BOLD_Records_COI_CA=0, BOLD_Records_COI_SW = 0)
+                BOLD_Records_matK=0, BOLD_Records_matK_USA=0, BOLD_Records_matK_CA=0, BOLD_Records_matK_SW = 0,
+                BOLD_Records_COI=0, BOLD_Records_COI_USA=0, BOLD_Records_COI_CA=0, BOLD_Records_COI_SW = 0
+                )
+    
   }
   xdf
 })  %>% bind_rows()
@@ -128,7 +149,7 @@ write_csv(bold_summary, file="Outputs/bryos_bold_summary.csv")
 
 
 #mito_search
-gb_df_summary<- tibble(taxa = taxa)
+gb_df_summary<- tibble(taxa = taxa) 
 gb_df_summary$GB_mito_count<-sapply(gb_df_summary$taxa, function(x){
   term.x = paste0(x,"[PORGN]", " AND 200:3400[SLEN]", " AND mitochondrion[filter]")
   xdf = entrez_search(db="nuccore", term=term.x, FILT=1, api_key="b2ccdcd6619a29d3bf31de74e7cde9a1c209"  )
@@ -149,7 +170,8 @@ gb_df_summary$GB_chloro_count<-sapply(gb_df_summary$taxa, function(x){
   print(paste(x, xdf$count))
   xdf$count
 })
-# junk<-paste0("Bryum[PORGN] AND 200:3400[SLEN] AND chloroplast[filter]")
+
+# junk<-paste0("Bryum[PORGN] AND 200:3400[SLEN] AND 18S[All fields]")
 # junkx<-entrez_search(db="nuccore", term=junk, FILT=1, api_key="b2ccdcd6619a29d3bf31de74e7cde9a1c209"  )
 # junkx$count
 # print(junkx)
@@ -163,14 +185,6 @@ gb_df_summary$GB_18S_count<-sapply(gb_df_summary$taxa, function(x){
 })
 
 
-
-#18S search
-gb_df_summary$GB_18S_count<-sapply(gb_df_summary$taxa, function(x){
-  term.x = paste0(x,"[PORGN]", " AND 200:3400[SLEN]", " AND 18S[All fields]")
-  xdf = entrez_search(db="nuccore", term=term.x, FILT=1, api_key="b2ccdcd6619a29d3bf31de74e7cde9a1c209"  )
-  print(paste(x, xdf$count))
-  xdf$count
-})
 
 
 gb_summary<-gb_df_summary %>%
@@ -242,6 +256,7 @@ bry_boldplot_dat<-bryos_bold_genbank %>%
                        str_detect(Locus,"ITS")~"ITS",
                        str_detect(Locus,"trnL")~"trnL",
                        str_detect(Locus,"rbcL")~"rbcL",
+                       str_detect(Locus,"matK")~"matK",
                        T~"Any"),
          DB=case_when(str_detect(Locus,"BOLD_")~"BOLD",
                       str_detect(Locus,"GB_")~"GenBank",
@@ -356,6 +371,7 @@ bryos_bold_genbank %>%
             GB_any = (GB_18S_count>0 |  GB_chloro_count  >0 | GB_mito_count  > 0 |  GB_mito_fl_count >0),
             BOLD_any = BOLD_Records>0) %>%
   filter(!is.na(GB_any)) %>%
-  filter(TaxonomicLevelCode<66) %>%
+  filter(TaxonomicLevelCode<66)
   
-
+  
+  

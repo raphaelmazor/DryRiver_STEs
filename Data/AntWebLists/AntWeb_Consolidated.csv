@@ -1,0 +1,697 @@
+Subfamily,Genus,Species,Subspecies,Author_Date,Arizona,California,BajaCalifornia,Colorado,NewMexico,Nevada,Sonora,Utah,GenSp,GenSpSp,TaxonomicLevelCode
+Amblyoponinae,Fulakora,orizabana,NA,"(Brown, 1960)",1,0,0,0,0,0,0,0,Fulakora orizabana,NA,60
+Amblyoponinae,Stigmatomma,pallipes,NA,"(Haldeman, 1844)",1,1,0,1,0,1,0,0,Stigmatomma pallipes,NA,60
+Dolichoderinae,Dorymyrmex,az02,NA,null,1,0,0,0,0,0,0,0,Dorymyrmex az02,NA,60
+Dolichoderinae,Dorymyrmex,az03,NA,null,1,0,0,0,0,0,0,0,Dorymyrmex az03,NA,60
+Dolichoderinae,Dorymyrmex,az05,NA,null,1,0,0,0,0,0,0,0,Dorymyrmex az05,NA,60
+Dolichoderinae,Dorymyrmex,bicolor,NA,"Wheeler, 1906",1,1,0,0,1,1,1,1,Dorymyrmex bicolor,NA,60
+Dolichoderinae,Dorymyrmex,bossutus,NA,"(Trager, 1988)",1,0,0,0,0,0,0,0,Dorymyrmex bossutus,NA,60
+Dolichoderinae,Dorymyrmex,flavus,NA,"McCook, 1880",1,1,0,1,0,0,0,0,Dorymyrmex flavus,NA,60
+Dolichoderinae,Dorymyrmex,insanus,NA,"(Buckley, 1866)",1,1,0,0,1,1,0,1,Dorymyrmex insanus,NA,60
+Dolichoderinae,Dorymyrmex,pyramicus,NA,"(Roger, 1863)",1,0,1,1,1,1,1,1,Dorymyrmex pyramicus,NA,60
+Dolichoderinae,Dorymyrmex,wheeleri,NA,"(Kusnezov, 1952)",1,0,0,0,0,0,0,0,Dorymyrmex wheeleri,NA,60
+Dolichoderinae,Forelius,az01,NA,null,1,0,0,0,0,0,0,0,Forelius az01,NA,60
+Dolichoderinae,Forelius,mccooki,NA,"(McCook, 1880)",1,1,1,1,1,1,1,1,Forelius mccooki,NA,60
+Dolichoderinae,Forelius,pruinosus,NA,"(Roger, 1863)",1,1,1,1,1,1,1,1,Forelius pruinosus,NA,60
+Dolichoderinae,Linepithema,humile,NA,"(Mayr, 1868)",1,1,1,0,1,0,0,0,Linepithema humile,NA,60
+Dolichoderinae,Liometopum,apiculatum,NA,"Mayr, 1870",1,0,0,1,1,0,0,0,Liometopum apiculatum,NA,60
+Dolichoderinae,Liometopum,luctuosum,NA,"Wheeler, 1905",1,1,0,1,1,1,0,1,Liometopum luctuosum,NA,60
+Dolichoderinae,Tapinoma,sessile,NA,"(Say, 1836)",1,1,1,1,1,1,1,1,Tapinoma sessile,NA,60
+Dorylinae,Acanthostichus,arizonensis,NA,"MacKay, 1996",1,0,0,0,0,0,0,0,Acanthostichus arizonensis,NA,60
+Dorylinae,Acanthostichus,davisi,NA,"(Smith, 1942)",1,1,0,0,0,0,0,0,Acanthostichus davisi,NA,60
+Dorylinae,Acanthostichus,punctiscapus,NA,"MacKay, 1996",1,0,0,0,1,0,0,0,Acanthostichus punctiscapus,NA,60
+Dorylinae,Neivamyrmex,agilis,NA,"Borgmeier, 1953",1,0,0,0,0,0,0,0,Neivamyrmex agilis,NA,60
+Dorylinae,Neivamyrmex,andrei,NA,"(Emery, 1901)",1,0,0,0,0,0,0,0,Neivamyrmex andrei,NA,60
+Dorylinae,Neivamyrmex,fuscipennis,NA,"(Smith, 1942)",1,0,0,0,0,0,0,0,Neivamyrmex fuscipennis,NA,60
+Dorylinae,Neivamyrmex,harrisii,NA,"(Haldeman, 1852)",1,0,0,1,0,0,0,0,Neivamyrmex harrisii,NA,60
+Dorylinae,Neivamyrmex,kiowapache,NA,"Snelling & Snelling, 2007",1,0,0,1,0,0,0,0,Neivamyrmex kiowapache,NA,60
+Dorylinae,Neivamyrmex,mandibularis,NA,"(Smith, 1942)",1,0,0,0,0,0,0,0,Neivamyrmex mandibularis,NA,60
+Dorylinae,Neivamyrmex,melanocephalus,NA,"(Emery, 1895)",1,0,0,0,0,0,0,0,Neivamyrmex melanocephalus,NA,60
+Dorylinae,Neivamyrmex,microps,NA,"Borgmeier, 1955",1,0,0,0,0,0,0,0,Neivamyrmex microps,NA,60
+Dorylinae,Neivamyrmex,minor,NA,"(Cresson, 1872)",1,1,0,0,0,0,0,0,Neivamyrmex minor,NA,60
+Dorylinae,Neivamyrmex,ndeh,NA,"Snelling & Snelling, 2007",1,0,0,0,0,0,0,0,Neivamyrmex ndeh,NA,60
+Dorylinae,Neivamyrmex,nigrescens,NA,"(Cresson, 1872)",1,1,0,1,1,0,0,1,Neivamyrmex nigrescens,NA,60
+Dorylinae,Neivamyrmex,nyensis,NA,"Watkins, 1977",1,1,0,0,0,1,0,0,Neivamyrmex nyensis,NA,60
+Dorylinae,Neivamyrmex,opacithorax,NA,"(Emery, 1894)",1,1,0,0,1,0,0,0,Neivamyrmex opacithorax,NA,60
+Dorylinae,Neivamyrmex,rugulosus,NA,"Borgmeier, 1953",1,0,0,0,1,0,0,0,Neivamyrmex rugulosus,NA,60
+Dorylinae,Neivamyrmex,swainsonii,NA,"(Shuckard, 1840)",1,1,0,0,1,0,0,0,Neivamyrmex swainsonii,NA,60
+Dorylinae,Neivamyrmex,texanus,NA,"Watkins, 1972",1,0,0,0,0,0,0,0,Neivamyrmex texanus,NA,60
+Dorylinae,Syscia,augustae,NA,"(Wheeler, 1902)",1,0,1,0,0,0,0,0,Syscia augustae,NA,60
+Dorylinae,Syscia,madrensis,NA,"Longino & Branstetter, 2021",1,0,0,0,0,0,0,0,Syscia madrensis,NA,60
+Dorylinae,Syscia,quisquilis,NA,"Longino & Branstetter, 2021",1,1,0,0,0,0,0,0,Syscia quisquilis,NA,60
+Ectatomminae,Typhlomyrmex,az01,NA,null,1,0,0,0,0,0,0,0,Typhlomyrmex az01,NA,60
+Formicinae,Acropyga,epedana,NA,"Snelling, 1973",1,0,0,0,0,0,0,0,Acropyga epedana,NA,60
+Formicinae,Brachymyrmex,depilis,NA,"Emery, 1893",1,1,0,1,1,0,0,1,Brachymyrmex depilis,NA,60
+Formicinae,Brachymyrmex,patagonicus,NA,"Mayr, 1868",1,1,0,0,0,0,0,0,Brachymyrmex patagonicus,NA,60
+Formicinae,Camponotus,acutirostris,NA,"Wheeler, 1910",1,0,0,0,1,0,0,0,Camponotus acutirostris,NA,60
+Formicinae,Camponotus,essigi,NA,"Smith, 1923",1,1,1,0,0,1,0,1,Camponotus essigi,NA,60
+Formicinae,Camponotus,festinatus,NA,"(Buckley, 1866)",1,0,1,0,1,0,1,0,Camponotus festinatus,NA,60
+Formicinae,Camponotus,fragilis,NA,"Pergande, 1893",1,1,0,0,1,0,1,0,Camponotus fragilis,NA,60
+Formicinae,Camponotus,herculeanus,NA,"(Linnaeus, 1758)",1,0,0,1,0,0,0,1,Camponotus herculeanus,NA,60
+Formicinae,Camponotus,hyatti,NA,"Emery, 1893",1,1,1,0,1,1,0,1,Camponotus hyatti,NA,60
+Formicinae,Camponotus,laevigatus,NA,"(Smith, 1858)",1,1,1,1,1,1,0,0,Camponotus laevigatus,NA,60
+Formicinae,Camponotus,laevissimus,NA,"Mackay, 2019",1,1,1,1,0,0,0,1,Camponotus laevissimus,NA,60
+Formicinae,Camponotus,maccooki,NA,"Forel, 1879",1,0,1,0,0,0,0,0,Camponotus maccooki,NA,60
+Formicinae,Camponotus,microps,NA,"Snelling, 2006",1,0,0,0,0,0,0,0,Camponotus microps,NA,60
+Formicinae,Camponotus,mina,NA,"Forel, 1879",1,0,1,0,0,0,1,0,Camponotus mina,NA,60
+Formicinae,Camponotus,modoc,NA,"Wheeler, 1910",1,1,0,1,1,1,0,1,Camponotus modoc,NA,60
+Formicinae,Camponotus,ocreatus,NA,"Emery, 1893",1,1,1,0,0,0,0,0,Camponotus ocreatus,NA,60
+Formicinae,Camponotus,pennsylvanicus,NA,"(De Geer, 1773)",1,0,0,0,1,0,0,0,Camponotus pennsylvanicus,NA,60
+Formicinae,Camponotus,pudorosus,NA,"Emery, 1925",1,0,0,0,0,0,1,0,Camponotus pudorosus,NA,60
+Formicinae,Camponotus,sansabeanus,NA,"(Buckley, 1866)",1,1,0,1,1,1,1,1,Camponotus sansabeanus,NA,60
+Formicinae,Camponotus,sayi,NA,"Emery, 1893",1,1,1,0,0,1,0,0,Camponotus sayi,NA,60
+Formicinae,Camponotus,schaefferi,NA,"Wheeler, 1909",1,0,0,0,0,0,0,0,Camponotus schaefferi,NA,60
+Formicinae,Camponotus,semitestaceus,NA,"Snelling, 1970",1,1,0,0,0,1,0,0,Camponotus semitestaceus,NA,60
+Formicinae,Camponotus,trepidulus,NA,"Creighton, 1965",1,0,0,0,0,0,0,0,Camponotus trepidulus,NA,60
+Formicinae,Camponotus,ulcerosus,NA,"Wheeler, 1910",1,0,0,0,0,0,0,0,Camponotus ulcerosus,NA,60
+Formicinae,Camponotus,vafer,NA,"Wheeler, 1910",1,0,0,0,0,0,0,0,Camponotus vafer,NA,60
+Formicinae,Camponotus,vicinus,NA,"Mayr, 1870",1,1,1,1,1,1,1,1,Camponotus vicinus,NA,60
+Formicinae,Colobopsis,papago,NA,"(Creighton, 1953)",1,0,0,0,0,0,1,0,Colobopsis papago,NA,60
+Formicinae,Formica,argentea,NA,"Wheeler, 1912",1,1,1,1,1,1,0,1,Formica argentea,NA,60
+Formicinae,Formica,aserva,NA,"Forel, 1901",1,1,0,1,1,1,0,1,Formica aserva,NA,60
+Formicinae,Formica,az01,NA,null,1,0,0,0,0,0,0,0,Formica az01,NA,60
+Formicinae,Formica,az02,NA,null,1,0,0,0,0,0,0,0,Formica az02,NA,60
+Formicinae,Formica,az03,NA,null,1,0,0,0,0,0,0,0,Formica az03,NA,60
+Formicinae,Formica,az04,NA,null,1,0,0,0,0,0,0,0,Formica az04,NA,60
+Formicinae,Formica,browni,NA,"Francoeur, 1973",1,0,0,0,0,0,0,0,Formica browni,NA,60
+Formicinae,Formica,densiventris,NA,"Viereck, 1903",1,1,0,1,1,1,0,1,Formica densiventris,NA,60
+Formicinae,Formica,foreliana,NA,"Wheeler, 1913",1,0,0,0,0,0,0,0,Formica foreliana,NA,60
+Formicinae,Formica,fusca,NA,"Linnaeus, 1758",1,0,0,1,1,1,0,1,Formica fusca,NA,60
+Formicinae,Formica,gnava,NA,"Buckley, 1866",1,1,0,1,1,1,0,1,Formica gnava,NA,60
+Formicinae,Formica,hewitti,NA,"Wheeler, 1917",1,1,0,1,1,0,0,1,Formica hewitti,NA,60
+Formicinae,Formica,lasioides,NA,"Emery, 1893",1,1,1,1,1,1,0,1,Formica lasioides,NA,60
+Formicinae,Formica,moki,NA,"Wheeler, 1906",1,1,0,0,0,1,0,1,Formica moki,NA,60
+Formicinae,Formica,neoclara,NA,"Emery, 1893",1,1,0,1,1,1,0,1,Formica neoclara,NA,60
+Formicinae,Formica,neogagates,NA,"Viereck, 1903",1,1,0,1,1,1,0,1,Formica neogagates,NA,60
+Formicinae,Formica,neorufibarbis,NA,"Emery, 1893",1,1,0,1,1,1,0,1,Formica neorufibarbis,NA,60
+Formicinae,Formica,obscuripes,NA,"Forel, 1886",1,1,0,1,1,1,0,1,Formica obscuripes,NA,60
+Formicinae,Formica,occulta,NA,"Francoeur, 1973",1,0,0,1,1,0,0,1,Formica occulta,NA,60
+Formicinae,Formica,perpilosa,NA,"Wheeler, 1910",1,1,0,1,1,1,1,1,Formica perpilosa,NA,60
+Formicinae,Formica,propinqua,NA,"Creighton, 1940",1,1,0,1,0,1,0,1,Formica propinqua,NA,60
+Formicinae,Formica,puberula,NA,"Emery, 1893",1,1,0,1,0,0,0,1,Formica puberula,NA,60
+Formicinae,Formica,subaenescens,NA,"Emery, 1893",1,1,0,0,0,1,0,1,Formica subaenescens,NA,60
+Formicinae,Formica,wheeleri,NA,"Creighton, 1935",1,0,0,1,1,0,0,1,Formica wheeleri,NA,60
+Formicinae,Lasius,alienus,NA,"(Foerster, 1850)",1,0,0,1,1,1,0,1,Lasius alienus,NA,60
+Formicinae,Lasius,americanus,NA,"Emery, 1893",1,0,0,0,0,0,0,0,Lasius americanus,NA,60
+Formicinae,Lasius,arizonicus,NA,"Wheeler, 1917",1,0,0,0,0,0,0,0,Lasius arizonicus,NA,60
+Formicinae,Lasius,az01,NA,null,1,0,0,0,0,0,0,0,Lasius az01,NA,60
+Formicinae,Lasius,brevicornis,NA,"Emery, 1893",1,1,0,0,0,1,0,1,Lasius brevicornis,NA,60
+Formicinae,Lasius,colei,NA,"(Wing, 1968)",1,0,0,0,0,0,0,0,Lasius colei,NA,60
+Formicinae,Lasius,fallax,NA,"Wilson, 1955",1,0,0,1,0,0,0,1,Lasius fallax,NA,60
+Formicinae,Lasius,flavus,NA,"(Fabricius, 1782)",1,0,0,1,0,1,0,1,Lasius flavus,NA,60
+Formicinae,Lasius,humilis,NA,"Wheeler, 1917",1,1,0,1,0,1,0,1,Lasius humilis,NA,60
+Formicinae,Lasius,interjectus,NA,"Mayr, 1866",1,0,0,1,0,0,0,1,Lasius interjectus,NA,60
+Formicinae,Lasius,latipes,NA,"(Walsh, 1863)",1,1,0,1,1,1,0,1,Lasius latipes,NA,60
+Formicinae,Lasius,murphyi,NA,"Forel, 1901",1,1,0,1,0,0,0,0,Lasius murphyi,NA,60
+Formicinae,Lasius,neoniger,NA,"Emery, 1893",1,0,0,1,1,1,0,1,Lasius neoniger,NA,60
+Formicinae,Lasius,occidentalis,NA,"Wheeler, 1909",1,0,0,1,0,0,0,0,Lasius occidentalis,NA,60
+Formicinae,Lasius,pallitarsis,NA,"(Provancher, 1881)",1,1,0,1,1,1,0,1,Lasius pallitarsis,NA,60
+Formicinae,Lasius,sitiens,NA,"Wilson, 1955",1,1,0,1,1,1,0,1,Lasius sitiens,NA,60
+Formicinae,Lasius,subumbratus,NA,"Viereck, 1903",1,1,0,1,1,1,0,1,Lasius subumbratus,NA,60
+Formicinae,Lasius,umbratus,NA,"(Nylander, 1846)",1,0,0,1,0,0,0,1,Lasius umbratus,NA,60
+Formicinae,Myrmecocystus,az02,NA,null,1,0,0,0,0,0,0,0,Myrmecocystus az02,NA,60
+Formicinae,Myrmecocystus,creightoni,NA,"Snelling, 1971",1,1,0,0,0,0,0,0,Myrmecocystus creightoni,NA,60
+Formicinae,Myrmecocystus,depilis,NA,"Forel, 1901",1,0,0,0,1,0,0,0,Myrmecocystus depilis,NA,60
+Formicinae,Myrmecocystus,kennedyi,NA,"Snelling, 1969",1,1,1,0,0,1,1,0,Myrmecocystus kennedyi,NA,60
+Formicinae,Myrmecocystus,koso,NA,"Snelling, 1976",1,1,0,0,0,1,0,0,Myrmecocystus koso,NA,60
+Formicinae,Myrmecocystus,melliger,NA,"Forel, 1886",1,0,0,1,1,1,1,0,Myrmecocystus melliger,NA,60
+Formicinae,Myrmecocystus,mendax,NA,"Wheeler, 1908",1,1,0,1,1,1,0,1,Myrmecocystus mendax,NA,60
+Formicinae,Myrmecocystus,mexicanus,NA,"Wesmael, 1838",1,1,0,1,1,1,0,1,Myrmecocystus mexicanus,NA,60
+Formicinae,Myrmecocystus,mimicus,NA,"Wheeler, 1908",1,1,0,0,1,0,1,0,Myrmecocystus mimicus,NA,60
+Formicinae,Myrmecocystus,navajo,NA,"Wheeler, 1908",1,1,0,1,1,1,0,1,Myrmecocystus navajo,NA,60
+Formicinae,Myrmecocystus,placodops,NA,"Forel, 1908",1,1,0,0,1,0,1,1,Myrmecocystus placodops,NA,60
+Formicinae,Myrmecocystus,romainei,NA,"Hunt & Snelling, 1975",1,1,0,0,0,0,0,0,Myrmecocystus romainei,NA,60
+Formicinae,Myrmecocystus,semirufus,NA,"Emery, 1893",1,1,1,0,1,1,0,1,Myrmecocystus semirufus,NA,60
+Formicinae,Myrmecocystus,testaceus,NA,"Emery, 1893",1,1,1,0,1,1,0,1,Myrmecocystus testaceus,NA,60
+Formicinae,Myrmecocystus,wheeleri,NA,"Snelling, 1971",1,1,0,0,0,0,0,0,Myrmecocystus wheeleri,NA,60
+Formicinae,Myrmecocystus,yuma,NA,"Wheeler, 1912",1,1,1,0,0,1,0,0,Myrmecocystus yuma,NA,60
+Formicinae,Nylanderia,austroccidua,NA,"(Trager, 1984)",1,0,0,0,1,0,0,0,Nylanderia austroccidua,NA,60
+Formicinae,Nylanderia,bruesii,NA,"(Wheeler, 1903)",1,0,0,0,1,0,1,0,Nylanderia bruesii,NA,60
+Formicinae,Nylanderia,hystrix,NA,"(Trager, 1984)",1,1,0,0,0,0,0,1,Nylanderia hystrix,NA,60
+Formicinae,Nylanderia,terricola,NA,"(Buckley, 1866)",1,0,0,0,1,1,1,0,Nylanderia terricola,NA,60
+Formicinae,Nylanderia,vividula,NA,"(Nylander, 1846)",1,1,0,0,1,0,0,0,Nylanderia vividula,NA,60
+Formicinae,Paratrechina,longicornis,NA,"(Latreille, 1802)",1,1,1,0,0,0,1,0,Paratrechina longicornis,NA,60
+Formicinae,Polyergus,breviceps,NA,"Emery, 1893",1,0,0,1,0,1,0,0,Polyergus breviceps,NA,60
+Formicinae,Polyergus,mexicanus,NA,"Forel, 1899",1,1,0,1,1,1,0,1,Polyergus mexicanus,NA,60
+Formicinae,Polyergus,topoffi,NA,"Trager, 2013",1,0,0,0,0,0,0,0,Polyergus topoffi,NA,60
+Formicinae,Prenolepis,imparis,NA,"(Say, 1836)",1,1,1,1,1,0,0,1,Prenolepis imparis,NA,60
+Myrmicinae,Acromyrmex,versicolor,NA,"(Pergande, 1893)",1,1,1,0,0,0,0,0,Acromyrmex versicolor,NA,60
+Myrmicinae,Aphaenogaster,boulderensis,NA,"Smith, 1941",1,1,0,0,1,1,0,1,Aphaenogaster boulderensis,NA,60
+Myrmicinae,Aphaenogaster,huachucana,NA,"Creighton, 1934",1,0,0,0,1,0,0,0,Aphaenogaster huachucana,NA,60
+Myrmicinae,Aphaenogaster,megommata,NA,"Smith, 1963",1,1,1,0,0,1,1,0,Aphaenogaster megommata,NA,60
+Myrmicinae,Aphaenogaster,texana,NA,"(Wheeler, 1906)",1,0,0,0,1,0,0,0,Aphaenogaster texana,NA,60
+Myrmicinae,Atta,mexicana,NA,"(Smith, 1858)",1,0,0,0,0,0,1,0,Atta mexicana,NA,60
+Myrmicinae,Cephalotes,rohweri,NA,"(Wheeler, 1916)",1,0,0,0,0,0,1,0,Cephalotes rohweri,NA,60
+Myrmicinae,Crematogaster,az02,NA,null,1,0,0,0,0,0,0,0,Crematogaster az02,NA,60
+Myrmicinae,Crematogaster,browni,NA,"Buren, 1968",1,0,0,0,1,0,1,0,Crematogaster browni,NA,60
+Myrmicinae,Crematogaster,cerasi,NA,"(Fitch, 1855)",1,0,0,1,1,0,0,0,Crematogaster cerasi,NA,60
+Myrmicinae,Crematogaster,coarctata,NA,"Mayr, 1870",1,1,1,1,1,1,0,1,Crematogaster coarctata,NA,60
+Myrmicinae,Crematogaster,colei,NA,"Buren, 1968",1,0,0,0,1,0,1,1,Crematogaster colei,NA,60
+Myrmicinae,Crematogaster,dentinodis,NA,"Forel, 1901",1,0,0,0,0,0,1,0,Crematogaster dentinodis,NA,60
+Myrmicinae,Crematogaster,depilis,NA,"Wheeler, 1919",1,1,1,0,1,1,1,1,Crematogaster depilis,NA,60
+Myrmicinae,Crematogaster,emeryana,NA,"Creighton, 1950",1,1,0,1,1,0,0,1,Crematogaster emeryana,NA,60
+Myrmicinae,Crematogaster,hespera,NA,"Buren, 1968",1,1,1,0,1,1,1,1,Crematogaster hespera,NA,60
+Myrmicinae,Crematogaster,isolata,NA,"Buren, 1968",1,0,0,0,1,0,0,1,Crematogaster isolata,NA,60
+Myrmicinae,Crematogaster,laeviuscula,NA,"Mayr, 1870",1,1,0,0,1,1,0,0,Crematogaster laeviuscula,NA,60
+Myrmicinae,Crematogaster,larreae,NA,"Buren, 1968",1,1,0,0,0,0,0,0,Crematogaster larreae,NA,60
+Myrmicinae,Crematogaster,lineolata,NA,"(Say, 1836)",1,0,0,1,1,0,0,0,Crematogaster lineolata,NA,60
+Myrmicinae,Crematogaster,missouriensis,NA,"Emery, 1895",1,0,0,0,1,0,0,1,Crematogaster missouriensis,NA,60
+Myrmicinae,Crematogaster,mutans,NA,"Buren, 1968",1,1,0,0,0,1,0,0,Crematogaster mutans,NA,60
+Myrmicinae,Crematogaster,navajoa,NA,"Buren, 1968",1,1,0,1,1,0,0,1,Crematogaster navajoa,NA,60
+Myrmicinae,Crematogaster,nocturna,NA,"Buren, 1968",1,0,0,0,0,0,0,1,Crematogaster nocturna,NA,60
+Myrmicinae,Crematogaster,opuntiae,NA,"Buren, 1968",1,0,0,0,1,1,1,0,Crematogaster opuntiae,NA,60
+Myrmicinae,Crematogaster,torosa,NA,"Mayr, 1870",1,0,0,0,0,0,1,0,Crematogaster torosa,NA,60
+Myrmicinae,Crematogaster,vermiculata,NA,"Emery, 1895",1,0,1,0,1,1,0,0,Crematogaster vermiculata,NA,60
+Myrmicinae,Crematogaster,vetusta,NA,"Ward & Blaimer, 2022",1,0,0,0,0,0,1,0,Crematogaster vetusta,NA,60
+Myrmicinae,Cyphomyrmex,flavidus,NA,"Pergande, 1896",1,1,0,0,0,0,0,0,Cyphomyrmex flavidus,NA,60
+Myrmicinae,Cyphomyrmex,wheeleri,NA,"Forel, 1900",1,1,0,0,0,0,0,0,Cyphomyrmex wheeleri,NA,60
+Myrmicinae,Dolopomyrmex,pilatus,NA,"Cover & Deyrup, 2007",1,1,0,0,0,0,0,0,Dolopomyrmex pilatus,NA,60
+Myrmicinae,Formicoxenus,diversipilosus,NA,"(Smith, 1939)",1,1,0,0,0,0,0,1,Formicoxenus diversipilosus,NA,60
+Myrmicinae,Formicoxenus,hirticornis,NA,"(Emery, 1895)",1,0,0,1,1,0,0,1,Formicoxenus hirticornis,NA,60
+Myrmicinae,Leptothorax,az01,NA,null,1,0,0,0,0,0,0,0,Leptothorax az01,NA,60
+Myrmicinae,Leptothorax,az02,NA,null,1,0,0,0,0,0,0,0,Leptothorax az02,NA,60
+Myrmicinae,Leptothorax,crassipilis,NA,"Wheeler, 1917",1,0,0,1,1,1,0,1,Leptothorax crassipilis,NA,60
+Myrmicinae,Leptothorax,muscorum,NA,"(Nylander, 1846)",1,0,0,1,1,1,0,1,Leptothorax muscorum,NA,60
+Myrmicinae,Monomorium,az01,NA,null,1,0,0,0,0,0,0,0,Monomorium az01,NA,60
+Myrmicinae,Monomorium,az02,NA,null,1,0,0,0,0,0,0,0,Monomorium az02,NA,60
+Myrmicinae,Monomorium,cyaneum,NA,"Wheeler, 1914",1,0,0,0,0,0,1,0,Monomorium cyaneum,NA,60
+Myrmicinae,Monomorium,ergatogyna,NA,"Wheeler, 1904",1,1,0,0,0,1,0,1,Monomorium ergatogyna,NA,60
+Myrmicinae,Monomorium,minimum,NA,"(Buckley, 1867)",1,0,0,1,1,1,1,1,Monomorium minimum,NA,60
+Myrmicinae,Monomorium,viridum,NA,"Brown, 1943",1,0,0,1,1,1,1,1,Monomorium viridum,NA,60
+Myrmicinae,Myrmecina,americana,NA,"Emery, 1895",1,1,0,1,1,0,0,0,Myrmecina americana,NA,60
+Myrmicinae,Myrmica,az01,NA,null,1,0,0,0,0,0,0,0,Myrmica az01,NA,60
+Myrmicinae,Myrmica,az02,NA,null,1,0,0,0,0,0,0,0,Myrmica az02,NA,60
+Myrmicinae,Myrmica,az03,NA,null,1,0,0,0,0,0,0,0,Myrmica az03,NA,60
+Myrmicinae,Myrmica,fracticornis,NA,"Forel, 1901",1,0,0,1,1,1,0,1,Myrmica fracticornis,NA,60
+Myrmicinae,Myrmica,hamulata,NA,"Weber, 1939",1,0,0,1,1,0,0,1,Myrmica hamulata,NA,60
+Myrmicinae,Myrmica,latifrons,NA,"Stärcke, 1927",1,0,0,1,1,0,0,1,Myrmica latifrons,NA,60
+Myrmicinae,Myrmica,lobifrons,NA,"Pergande, 1900",1,0,0,1,1,1,0,0,Myrmica lobifrons,NA,60
+Myrmicinae,Myrmica,mexicana,NA,"Wheeler, 1914",1,0,0,0,0,0,0,0,Myrmica mexicana,NA,60
+Myrmicinae,Myrmica,rugiventris,NA,"(Smith, 1943)",1,1,0,1,1,0,0,1,Myrmica rugiventris,NA,60
+Myrmicinae,Myrmica,striolagaster,NA,"Cole, 1953",1,0,0,1,1,0,0,1,Myrmica striolagaster,NA,60
+Myrmicinae,Myrmica,tahoensis,NA,"Weber, 1948",1,1,0,1,0,1,0,0,Myrmica tahoensis,NA,60
+Myrmicinae,Myrmica,wheeleri,NA,"Weber, 1939",1,0,0,0,0,0,0,0,Myrmica wheeleri,NA,60
+Myrmicinae,Novomessor,albisetosus,NA,"(Mayr, 1886)",1,0,0,0,0,0,1,0,Novomessor albisetosus,NA,60
+Myrmicinae,Novomessor,cockerelli,NA,"(André, 1893)",1,1,0,0,1,0,1,0,Novomessor cockerelli,NA,60
+Myrmicinae,Pheidole,az01,NA,null,1,0,0,0,0,0,0,0,Pheidole az01,NA,60
+Myrmicinae,Pheidole,az02,NA,null,1,0,0,0,0,0,0,0,Pheidole az02,NA,60
+Myrmicinae,Pheidole,az03,NA,null,1,0,0,0,0,0,0,0,Pheidole az03,NA,60
+Myrmicinae,Pheidole,az04,NA,null,1,0,0,0,0,0,0,0,Pheidole az04,NA,60
+Myrmicinae,Pheidole,az05,NA,null,1,0,0,0,0,0,0,0,Pheidole az05,NA,60
+Myrmicinae,Pheidole,az06,NA,null,1,0,0,0,0,0,0,0,Pheidole az06,NA,60
+Myrmicinae,Pheidole,az07,NA,null,1,0,0,0,0,0,0,0,Pheidole az07,NA,60
+Myrmicinae,Pheidole,az08,NA,null,1,0,0,0,0,0,0,0,Pheidole az08,NA,60
+Myrmicinae,Pheidole,az09,NA,null,1,0,0,0,0,0,0,0,Pheidole az09,NA,60
+Myrmicinae,Pheidole,az10,NA,null,1,0,0,0,0,0,0,0,Pheidole az10,NA,60
+Myrmicinae,Pheidole,az11,NA,null,1,0,0,0,0,0,0,0,Pheidole az11,NA,60
+Myrmicinae,Pheidole,az12,NA,null,1,0,0,0,0,0,0,0,Pheidole az12,NA,60
+Myrmicinae,Pheidole,az13,NA,null,1,0,0,0,0,0,0,0,Pheidole az13,NA,60
+Myrmicinae,Pheidole,az15,NA,null,1,0,0,0,0,0,0,0,Pheidole az15,NA,60
+Myrmicinae,Pheidole,batrachorum,NA,"Wheeler, 1922",1,0,0,0,0,0,0,0,Pheidole batrachorum,NA,60
+Myrmicinae,Pheidole,bicarinata,NA,"Mayr, 1870",1,1,0,1,1,1,0,1,Pheidole bicarinata,NA,60
+Myrmicinae,Pheidole,cavigenis,NA,"Wheeler, 1915",1,0,0,1,0,0,0,0,Pheidole cavigenis,NA,60
+Myrmicinae,Pheidole,cerebrosior,NA,"Wheeler, 1915",1,1,0,0,1,0,0,0,Pheidole cerebrosior,NA,60
+Myrmicinae,Pheidole,ceres,NA,"Wheeler, 1904",1,0,0,1,1,0,0,1,Pheidole ceres,NA,60
+Myrmicinae,Pheidole,clydei,NA,"Gregg, 1950",1,1,1,0,1,1,0,1,Pheidole clydei,NA,60
+Myrmicinae,Pheidole,cockerelli,NA,"Wheeler, 1908",1,0,0,1,1,0,0,0,Pheidole cockerelli,NA,60
+Myrmicinae,Pheidole,crassicornis,NA,"Emery, 1895",1,0,0,0,0,0,0,0,Pheidole crassicornis,NA,60
+Myrmicinae,Pheidole,desertorum,NA,"Wheeler, 1906",1,1,0,0,1,1,0,0,Pheidole desertorum,NA,60
+Myrmicinae,Pheidole,diversipilosa,NA,"Wheeler, 1908",1,0,0,0,0,0,0,0,Pheidole diversipilosa,NA,60
+Myrmicinae,Pheidole,furtiva,NA,"Wilson, 2003",1,0,0,0,0,0,0,0,Pheidole furtiva,NA,60
+Myrmicinae,Pheidole,gilvescens,NA,"Creighton & Gregg, 1955",1,1,0,0,0,1,1,0,Pheidole gilvescens,NA,60
+Myrmicinae,Pheidole,hyatti,NA,"Emery, 1895",1,1,1,1,1,1,1,1,Pheidole hyatti,NA,60
+Myrmicinae,Pheidole,juniperae,NA,"Wilson, 2003",1,0,0,0,0,0,0,0,Pheidole juniperae,NA,60
+Myrmicinae,Pheidole,marcidula,NA,"Wheeler, 1908",1,0,0,0,0,0,0,0,Pheidole marcidula,NA,60
+Myrmicinae,Pheidole,micula,NA,"Wheeler, 1915",1,1,0,0,0,0,0,1,Pheidole micula,NA,60
+Myrmicinae,Pheidole,militicida,NA,"Wheeler, 1915",1,0,0,0,0,0,0,0,Pheidole militicida,NA,60
+Myrmicinae,Pheidole,obtusospinosa,NA,"Pergande, 1896",1,0,0,0,0,0,1,0,Pheidole obtusospinosa,NA,60
+Myrmicinae,Pheidole,paiute,NA,"Gregg, 1959",1,1,0,0,0,1,0,1,Pheidole paiute,NA,60
+Myrmicinae,Pheidole,pallidula,NA,"(Nylander, 1849)",1,0,0,0,1,0,1,0,Pheidole pallidula,NA,60
+Myrmicinae,Pheidole,perpilosa,NA,"Wilson, 2003",1,0,0,0,1,0,0,0,Pheidole perpilosa,NA,60
+Myrmicinae,Pheidole,pilifera,NA,"(Roger, 1863)",1,1,1,1,1,1,0,1,Pheidole pilifera,NA,60
+Myrmicinae,Pheidole,portalensis,NA,"Wilson, 2003",1,0,0,0,0,0,0,0,Pheidole portalensis,NA,60
+Myrmicinae,Pheidole,psammophila,NA,"Creighton & Gregg, 1955",1,1,1,0,0,0,0,0,Pheidole psammophila,NA,60
+Myrmicinae,Pheidole,rhea,NA,"Wheeler, 1908",1,0,0,0,0,0,1,0,Pheidole rhea,NA,60
+Myrmicinae,Pheidole,rugulosa,NA,"Gregg, 1959",1,1,0,0,1,0,0,0,Pheidole rugulosa,NA,60
+Myrmicinae,Pheidole,sciara,NA,"Cole, 1955",1,0,0,0,1,0,0,0,Pheidole sciara,NA,60
+Myrmicinae,Pheidole,sciophila,NA,"Wheeler, 1908",1,1,1,0,1,0,1,0,Pheidole sciophila,NA,60
+Myrmicinae,Pheidole,senex,NA,"Gregg, 1952",1,0,0,1,1,0,0,1,Pheidole senex,NA,60
+Myrmicinae,Pheidole,soritis,NA,"Wheeler, 1908",1,0,0,1,1,0,1,1,Pheidole soritis,NA,60
+Myrmicinae,Pheidole,spadonia,NA,"Wheeler, 1915",1,0,0,0,0,0,0,0,Pheidole spadonia,NA,60
+Myrmicinae,Pheidole,tepicana,NA,"Pergande, 1896",1,0,0,0,0,0,0,0,Pheidole tepicana,NA,60
+Myrmicinae,Pheidole,tetra,NA,"Creighton, 1950",1,0,0,0,0,0,0,0,Pheidole tetra,NA,60
+Myrmicinae,Pheidole,titanis,NA,"Wheeler, 1903",1,0,0,0,0,0,0,0,Pheidole titanis,NA,60
+Myrmicinae,Pheidole,tysoni,NA,"Forel, 1901",1,0,0,0,1,0,0,0,Pheidole tysoni,NA,60
+Myrmicinae,Pheidole,vallicola,NA,"Wheeler, 1915",1,0,0,0,0,0,0,0,Pheidole vallicola,NA,60
+Myrmicinae,Pheidole,virago,NA,"Wheeler, 1915",1,0,0,0,0,0,0,0,Pheidole virago,NA,60
+Myrmicinae,Pheidole,vistana,NA,"Forel, 1914",1,1,1,0,0,1,0,0,Pheidole vistana,NA,60
+Myrmicinae,Pheidole,xerophila,NA,"Wheeler, 1908",1,1,0,0,1,1,1,0,Pheidole xerophila,NA,60
+Myrmicinae,Pogonomyrmex,anergismus,NA,"Cole, 1954",1,0,0,0,1,0,0,0,Pogonomyrmex anergismus,NA,60
+Myrmicinae,Pogonomyrmex,apache,NA,"Wheeler, 1902",1,0,0,1,1,0,1,0,Pogonomyrmex apache,NA,60
+Myrmicinae,Pogonomyrmex,barbatus,NA,"(Smith, 1858)",1,0,0,1,1,0,0,0,Pogonomyrmex barbatus,NA,60
+Myrmicinae,Pogonomyrmex,bicolor,NA,"Cole, 1968",1,0,0,0,0,0,1,0,Pogonomyrmex bicolor,NA,60
+Myrmicinae,Pogonomyrmex,californicus,NA,"(Buckley, 1867)",1,1,1,0,1,1,1,1,Pogonomyrmex californicus,NA,60
+Myrmicinae,Pogonomyrmex,colei,NA,"Snelling, 1982",1,1,0,0,0,1,0,0,Pogonomyrmex colei,NA,60
+Myrmicinae,Pogonomyrmex,desertorum,NA,"Wheeler, 1902",1,1,0,0,1,0,0,0,Pogonomyrmex desertorum,NA,60
+Myrmicinae,Pogonomyrmex,hoelldobleri,NA,"Johnson <i>et al.</i>, 2013",1,1,0,0,0,1,0,1,Pogonomyrmex hoelldobleri,NA,60
+Myrmicinae,Pogonomyrmex,huachucanus,NA,"Wheeler, 1914",1,0,0,0,1,0,0,0,Pogonomyrmex huachucanus,NA,60
+Myrmicinae,Pogonomyrmex,imberbiculus,NA,"Wheeler, 1902",1,1,0,0,1,0,1,0,Pogonomyrmex imberbiculus,NA,60
+Myrmicinae,Pogonomyrmex,magnacanthus,NA,"Cole, 1968",1,1,0,0,0,0,0,0,Pogonomyrmex magnacanthus,NA,60
+Myrmicinae,Pogonomyrmex,maricopa,NA,"Wheeler, 1914",1,1,0,1,1,1,1,1,Pogonomyrmex maricopa,NA,60
+Myrmicinae,Pogonomyrmex,occidentalis,NA,"(Cresson, 1865)",1,1,0,1,1,1,0,1,Pogonomyrmex occidentalis,NA,60
+Myrmicinae,Pogonomyrmex,pima,NA,"Wheeler, 1909",1,0,0,0,0,0,1,0,Pogonomyrmex pima,NA,60
+Myrmicinae,Pogonomyrmex,rugosus,NA,"Emery, 1895",1,1,0,1,1,1,1,1,Pogonomyrmex rugosus,NA,60
+Myrmicinae,Pogonomyrmex,tenuispinus,NA,"Forel, 1914",1,1,1,0,1,0,0,0,Pogonomyrmex tenuispinus,NA,60
+Myrmicinae,Rogeria,cuneola,NA,"Kugler, 1994",1,0,0,0,0,0,0,0,Rogeria cuneola,NA,60
+Myrmicinae,Solenopsis,amblychila,NA,"Wheeler, 1915",1,1,0,0,0,0,0,0,Solenopsis amblychila,NA,60
+Myrmicinae,Solenopsis,aurea,NA,"Wheeler, 1906",1,1,0,0,1,0,1,1,Solenopsis aurea,NA,60
+Myrmicinae,Solenopsis,carolinensis,NA,"Forel, 1901",1,0,0,1,1,0,0,1,Solenopsis carolinensis,NA,60
+Myrmicinae,Solenopsis,geminata,NA,"(Fabricius, 1804)",1,0,0,0,0,0,0,0,Solenopsis geminata,NA,60
+Myrmicinae,Solenopsis,krockowi,NA,"Wheeler, 1908",1,0,0,0,1,1,0,0,Solenopsis krockowi,NA,60
+Myrmicinae,Solenopsis,molesta,NA,"(Say, 1836)",1,1,0,1,1,1,0,1,Solenopsis molesta,NA,60
+Myrmicinae,Solenopsis,salina,NA,"Wheeler, 1908",1,1,0,1,1,0,0,1,Solenopsis salina,NA,60
+Myrmicinae,Solenopsis,tennesseensis,NA,"Smith, 1951",1,1,0,0,0,0,0,0,Solenopsis tennesseensis,NA,60
+Myrmicinae,Solenopsis,xyloni,NA,"McCook, 1880",1,1,1,1,1,1,1,1,Solenopsis xyloni,NA,60
+Myrmicinae,Stenamma,chiricahua,NA,"Snelling, 1973",1,0,0,0,0,0,0,1,Stenamma chiricahua,NA,60
+Myrmicinae,Stenamma,huachucanum,NA,"Smith, 1957",1,0,0,1,1,0,0,0,Stenamma huachucanum,NA,60
+Myrmicinae,Stenamma,snellingi,NA,"Bolton, 1995",1,1,0,0,0,1,0,1,Stenamma snellingi,NA,60
+Myrmicinae,Strumigenys,arizonica,NA,"(Ward, 1988)",1,0,0,0,0,0,0,0,Strumigenys arizonica,NA,60
+Myrmicinae,Strumigenys,az01,NA,null,1,0,0,0,0,0,0,0,Strumigenys az01,NA,60
+Myrmicinae,Strumigenys,chiricahua,NA,"(Ward, 1988)",1,0,0,0,0,0,0,0,Strumigenys chiricahua,NA,60
+Myrmicinae,Strumigenys,membranifera,NA,"Emery, 1869",1,1,0,0,0,0,0,0,Strumigenys membranifera,NA,60
+Myrmicinae,Strumigenys,mixta,NA,"Brown, 1953",1,0,0,0,0,0,0,0,Strumigenys mixta,NA,60
+Myrmicinae,Strumigenys,superstes,NA,"Booher & Uhey, 2020",1,0,0,0,0,0,0,0,Strumigenys superstes,NA,60
+Myrmicinae,Temnothorax,adustus,NA,"(Mackay, 2000)",1,0,0,0,0,0,0,0,Temnothorax adustus,NA,60
+Myrmicinae,Temnothorax,andrei,NA,"(Emery, 1895)",1,1,1,1,0,1,0,1,Temnothorax andrei,NA,60
+Myrmicinae,Temnothorax,arboreus,NA,"Snelling <i>et al.</i>, 2014",1,1,0,0,0,0,0,0,Temnothorax arboreus,NA,60
+Myrmicinae,Temnothorax,bestelmeyeri,NA,"(Mackay, 2000)",1,0,0,0,1,0,0,0,Temnothorax bestelmeyeri,NA,60
+Myrmicinae,Temnothorax,bristoli,NA,"(Mackay, 2000)",1,0,0,0,0,0,0,0,Temnothorax bristoli,NA,60
+Myrmicinae,Temnothorax,ca09,NA,null,1,0,0,0,0,0,0,0,Temnothorax ca09,NA,60
+Myrmicinae,Temnothorax,carinatus,NA,"(Cole, 1957)",1,0,0,0,1,0,0,1,Temnothorax carinatus,NA,60
+Myrmicinae,Temnothorax,cokendolpheri,NA,"(Mackay, 2000)",1,0,0,1,1,0,0,0,Temnothorax cokendolpheri,NA,60
+Myrmicinae,Temnothorax,emmae,NA,"(Mackay, 2000)",1,0,0,0,1,0,0,0,Temnothorax emmae,NA,60
+Myrmicinae,Temnothorax,josephi,NA,"(Mackay, 2000)",1,0,0,0,1,0,0,0,Temnothorax josephi,NA,60
+Myrmicinae,Temnothorax,neomexicanus,NA,"(Wheeler, 1903)",1,1,0,1,1,1,0,1,Temnothorax neomexicanus,NA,60
+Myrmicinae,Temnothorax,nitens,NA,"(Emery, 1895)",1,1,1,1,1,1,0,1,Temnothorax nitens,NA,60
+Myrmicinae,Temnothorax,obliquicanthus,NA,"(Cole, 1953)",1,1,1,1,1,0,0,1,Temnothorax obliquicanthus,NA,60
+Myrmicinae,Temnothorax,obturator,NA,"(Wheeler, 1903)",1,0,0,0,0,0,0,0,Temnothorax obturator,NA,60
+Myrmicinae,Temnothorax,pergandei,NA,"(Emery, 1895)",1,0,0,0,1,0,0,0,Temnothorax pergandei,NA,60
+Myrmicinae,Temnothorax,politus,NA,"(Smith, 1939)",1,0,0,0,0,0,1,0,Temnothorax politus,NA,60
+Myrmicinae,Temnothorax,pseudandrei,NA,"Snelling <i>et al.</i>, 2014",1,1,0,0,0,0,0,0,Temnothorax pseudandrei,NA,60
+Myrmicinae,Temnothorax,punctithorax,NA,"(Mackay, 2000)",1,0,0,0,0,0,0,0,Temnothorax punctithorax,NA,60
+Myrmicinae,Temnothorax,quercicola,NA,"Prebus, 2021",1,0,0,0,0,0,1,0,Temnothorax quercicola,NA,60
+Myrmicinae,Temnothorax,rugatulus,NA,"(Emery, 1895)",1,1,1,1,1,1,1,1,Temnothorax rugatulus,NA,60
+Myrmicinae,Temnothorax,silvestrii,NA,"(Santschi, 1911)",1,0,0,0,0,0,0,0,Temnothorax silvestrii,NA,60
+Myrmicinae,Temnothorax,stenotyle,NA,"(Cole, 1956)",1,0,0,0,1,0,0,0,Temnothorax stenotyle,NA,60
+Myrmicinae,Temnothorax,tricarinatus,NA,"(Emery, 1895)",1,0,0,1,1,0,0,1,Temnothorax tricarinatus,NA,60
+Myrmicinae,Temnothorax,whitfordi,NA,"(Mackay, 2000)",1,1,1,0,1,1,0,0,Temnothorax whitfordi,NA,60
+Myrmicinae,Tetramorium,hispidum,NA,"(Wheeler, 1915)",1,0,0,0,1,0,1,1,Tetramorium hispidum,NA,60
+Myrmicinae,Tetramorium,sericeiventre,NA,"Emery, 1877",1,0,0,0,0,0,0,0,Tetramorium sericeiventre,NA,60
+Myrmicinae,Tetramorium,spinosum,NA,"(Pergande, 1896)",1,1,0,0,0,0,0,0,Tetramorium spinosum,NA,60
+Myrmicinae,Trachymyrmex,arizonensis,NA,"(Wheeler, 1907)",1,0,0,0,1,0,1,0,Trachymyrmex arizonensis,NA,60
+Myrmicinae,Trachymyrmex,carinatus,NA,"Mackay & MacKay, 1997",1,0,0,0,1,0,0,0,Trachymyrmex carinatus,NA,60
+Myrmicinae,Trachymyrmex,desertorum,NA,"(Wheeler, 1911)",1,0,0,0,0,0,0,0,Trachymyrmex desertorum,NA,60
+Myrmicinae,Trachymyrmex,nogalensis,NA,"Byars, 1951",1,0,0,0,0,0,0,0,Trachymyrmex nogalensis,NA,60
+Myrmicinae,Trachymyrmex,pomonae,NA,"Rabeling & Cover, 2007",1,0,0,0,0,0,0,0,Trachymyrmex pomonae,NA,60
+Myrmicinae,Veromessor,pergandei,NA,"(Mayr, 1886)",1,1,1,0,0,1,1,0,Veromessor pergandei,NA,60
+Myrmicinae,Veromessor,smithi,NA,"Cole, 1963",1,1,0,0,0,1,0,0,Veromessor smithi,NA,60
+Ponerinae,Hypoponera,bca01,NA,null,1,0,0,0,0,0,0,0,Hypoponera bca01,NA,60
+Ponerinae,Hypoponera,inexorata,NA,"(Wheeler, 1903)",1,0,0,0,0,0,0,0,Hypoponera inexorata,NA,60
+Ponerinae,Hypoponera,opacior,NA,"(Forel, 1893)",1,1,0,1,1,1,1,1,Hypoponera opacior,NA,60
+Ponerinae,Odontomachus,clarus,NA,"Roger, 1861",1,0,0,0,0,0,1,0,Odontomachus clarus,NA,60
+Ponerinae,Odontomachus,desertorum,NA,"Wheeler, 1915",1,0,0,0,0,0,1,0,Odontomachus desertorum,NA,60
+Pseudomyrmecinae,Pseudomyrmex,apache,NA,"Creighton, 1953",1,1,1,0,1,0,1,0,Pseudomyrmex apache,NA,60
+Pseudomyrmecinae,Pseudomyrmex,pallidus,NA,"(Smith, 1855)",1,1,1,1,0,1,1,0,Pseudomyrmex pallidus,NA,60
+Amblyoponinae,Stigmatomma,oregonense,NA,"Wheeler, 1915",0,1,0,0,0,0,0,0,Stigmatomma oregonense,NA,60
+Dolichoderinae,Dorymyrmex,us-ca01,NA,null,0,1,0,0,0,0,0,0,Dorymyrmex us-ca01,NA,60
+Dolichoderinae,Liometopum,occidentale,NA,"Emery, 1895",0,1,0,0,0,0,0,0,Liometopum occidentale,NA,60
+Dolichoderinae,Tapinoma,schreiberi,NA,"Hamm, 2010",0,1,0,0,0,1,0,0,Tapinoma schreiberi,NA,60
+Dolichoderinae,Technomyrmex,vitiensis,NA,"Mann, 1921",0,1,0,0,0,0,0,0,Technomyrmex vitiensis,NA,60
+Dorylinae,Neivamyrmex,californicus,NA,"(Mayr, 1870)",0,1,0,0,0,0,0,0,Neivamyrmex californicus,NA,60
+Dorylinae,Neivamyrmex,leonardi,NA,"(Wheeler, 1915)",0,1,0,0,0,0,0,0,Neivamyrmex leonardi,NA,60
+Dorylinae,Neivamyrmex,mojave,NA,"(Smith, 1943)",0,1,0,0,0,0,0,0,Neivamyrmex mojave,NA,60
+Dorylinae,Neivamyrmex,wilsoni,NA,"Snelling & Snelling, 2007",0,1,0,0,0,0,0,0,Neivamyrmex wilsoni,NA,60
+Formicinae,Brachymyrmex,depilis_nr,NA,null,0,1,0,0,0,0,0,0,Brachymyrmex depilis_nr,NA,60
+Formicinae,Camponotus,absquatulator,NA,"Snelling, 2006",0,1,1,0,0,0,0,0,Camponotus absquatulator,NA,60
+Formicinae,Camponotus,anthrax,NA,"Wheeler, 1911",0,1,0,0,0,0,0,0,Camponotus anthrax,NA,60
+Formicinae,Camponotus,bakeri,NA,"Wheeler, 1904",0,1,0,0,0,0,0,0,Camponotus bakeri,NA,60
+Formicinae,Camponotus,clarithorax,NA,"Creighton, 1950",0,1,1,0,0,0,0,1,Camponotus clarithorax,NA,60
+Formicinae,Camponotus,dumetorum,NA,"Wheeler, 1910",0,1,1,0,0,0,0,0,Camponotus dumetorum,NA,60
+Formicinae,Camponotus,johnsoni,NA,"Mackay, 2019",0,1,1,0,0,0,0,0,Camponotus johnsoni,NA,60
+Formicinae,Camponotus,maritimus,NA,"Ward, 2005",0,1,0,0,0,0,0,0,Camponotus maritimus,NA,60
+Formicinae,Camponotus,semitestaceus_nr,NA,null,0,1,0,0,0,0,0,0,Camponotus semitestaceus_nr,NA,60
+Formicinae,Camponotus,us-ca02,NA,null,0,1,0,0,0,0,0,0,Camponotus us-ca02,NA,60
+Formicinae,Camponotus,yogi,NA,"Wheeler, 1915",0,1,1,0,0,0,0,0,Camponotus yogi,NA,60
+Formicinae,Formica,accreta,NA,"Francoeur, 1973",0,1,0,1,1,1,0,0,Formica accreta,NA,60
+Formicinae,Formica,adamsi,whymperi,"Wheeler, 1917",0,1,0,0,0,0,0,1,Formica adamsi,Formica adamsi whymperi,66
+Formicinae,Formica,aerata,NA,"Francoeur, 1973",0,1,0,0,0,1,0,0,Formica aerata,NA,60
+Formicinae,Formica,altipetens,NA,"Wheeler, 1913",0,1,0,1,0,1,0,1,Formica altipetens,NA,60
+Formicinae,Formica,canadensis,NA,"Santschi, 1914",0,1,0,1,0,0,0,1,Formica canadensis,NA,60
+Formicinae,Formica,dakotensis,NA,"Emery, 1893",0,1,0,1,0,0,0,1,Formica dakotensis,NA,60
+Formicinae,Formica,francoeuri,NA,"Bolton, 1995",0,1,1,0,0,0,0,0,Formica francoeuri,NA,60
+Formicinae,Formica,integroides,NA,"Wheeler, 1913",0,1,1,1,0,0,0,1,Formica integroides,NA,60
+Formicinae,Formica,lepida,NA,"Wheeler, 1913",0,1,0,1,0,0,0,1,Formica lepida,NA,60
+Formicinae,Formica,longipilosa,NA,"Francoeur, 1973",0,1,0,0,0,0,0,0,Formica longipilosa,NA,60
+Formicinae,Formica,manni,NA,"Wheeler, 1913",0,1,0,0,0,1,0,1,Formica manni,NA,60
+Formicinae,Formica,microphthalma,NA,"Francoeur, 1973",0,1,0,0,0,1,0,0,Formica microphthalma,NA,60
+Formicinae,Formica,nevadensis,NA,"Wheeler, 1904",0,1,0,0,0,1,0,0,Formica nevadensis,NA,60
+Formicinae,Formica,oreas,NA,"Wheeler, 1903",0,1,0,1,1,1,0,1,Formica oreas,NA,60
+Formicinae,Formica,pacifica,NA,"Francoeur, 1973",0,1,0,0,0,0,0,0,Formica pacifica,NA,60
+Formicinae,Formica,pergandei,NA,"Emery, 1893",0,1,0,0,0,0,0,0,Formica pergandei,NA,60
+Formicinae,Formica,planipilis,NA,"Creighton, 1940",0,1,0,1,0,1,0,1,Formica planipilis,NA,60
+Formicinae,Formica,podzolica,NA,"Francoeur, 1973",0,1,0,1,0,1,0,1,Formica podzolica,NA,60
+Formicinae,Formica,ravida,NA,"Creighton, 1940",0,1,0,1,0,1,0,1,Formica ravida,NA,60
+Formicinae,Formica,sibylla,NA,"Wheeler, 1913",0,1,0,0,0,0,0,0,Formica sibylla,NA,60
+Formicinae,Formica,sibylla_nr,NA,null,0,1,0,0,0,0,0,0,Formica sibylla_nr,NA,60
+Formicinae,Formica,subelongata,NA,"Francoeur, 1973",0,1,0,0,0,0,0,0,Formica subelongata,NA,60
+Formicinae,Formica,subnitens,NA,"Creighton, 1940",0,1,0,1,0,1,0,1,Formica subnitens,NA,60
+Formicinae,Formica,subpolita,NA,"Mayr, 1886",0,1,1,0,0,1,0,1,Formica subpolita,NA,60
+Formicinae,Formica,transmontanis,NA,"Francoeur, 1973",0,1,0,0,0,0,0,0,Formica transmontanis,NA,60
+Formicinae,Formica,us-ca01,NA,null,0,1,0,0,0,0,0,0,Formica us-ca01,NA,60
+Formicinae,Formica,xerophila,NA,"Smith, 1939",0,1,0,0,0,1,0,1,Formica xerophila,NA,60
+Formicinae,Lasius,americanus_nr1,NA,null,0,1,0,0,0,0,0,0,Lasius americanus_nr1,NA,60
+Formicinae,Lasius,aphidicola,NA,"(Walsh, 1863)",0,1,0,0,0,0,0,0,Lasius aphidicola,NA,60
+Formicinae,Lasius,atopus,NA,"Cole, 1958",0,1,0,0,0,0,0,0,Lasius atopus,NA,60
+Formicinae,Lasius,atopus_nr,NA,null,0,1,0,0,0,0,0,0,Lasius atopus_nr,NA,60
+Formicinae,Lasius,californicus,NA,"Wheeler, 1917",0,1,0,0,0,0,0,0,Lasius californicus,NA,60
+Formicinae,Lasius,crypticus,NA,"Wilson, 1955",0,1,0,1,1,0,0,1,Lasius crypticus,NA,60
+Formicinae,Lasius,humilis_nr,NA,null,0,1,0,0,0,0,0,0,Lasius humilis_nr,NA,60
+Formicinae,Lasius,neoniger_nr1,NA,null,0,1,0,0,0,0,0,0,Lasius neoniger_nr1,NA,60
+Formicinae,Lasius,niger_nr1,NA,null,0,1,0,0,0,0,0,0,Lasius niger_nr1,NA,60
+Formicinae,Lasius,subumbratus_nr1,NA,null,0,1,0,0,0,0,0,0,Lasius subumbratus_nr1,NA,60
+Formicinae,Lasius,vestitus,NA,"Wheeler, 1910",0,1,0,0,0,0,0,0,Lasius vestitus,NA,60
+Formicinae,Myrmecocystus,christineae,NA,"Snelling, 1982",0,1,0,0,0,0,0,0,Myrmecocystus christineae,NA,60
+Formicinae,Myrmecocystus,colei,NA,"Snelling, 1976",0,1,0,0,0,0,0,0,Myrmecocystus colei,NA,60
+Formicinae,Myrmecocystus,ewarti,NA,"Snelling, 1971",0,1,0,0,0,0,0,0,Myrmecocystus ewarti,NA,60
+Formicinae,Myrmecocystus,flaviceps,NA,"Wheeler, 1912",0,1,0,0,0,1,0,0,Myrmecocystus flaviceps,NA,60
+Formicinae,Myrmecocystus,hammettensis,NA,"Cole, 1938",0,1,0,0,0,0,0,0,Myrmecocystus hammettensis,NA,60
+Formicinae,Myrmecocystus,kathjuli,NA,"Snelling, 1976",0,1,0,0,0,0,0,0,Myrmecocystus kathjuli,NA,60
+Formicinae,Myrmecocystus,lugubris,NA,"Wheeler, 1909",0,1,0,0,0,1,0,0,Myrmecocystus lugubris,NA,60
+Formicinae,Myrmecocystus,pyramicus,NA,"Smith, 1951",0,1,0,0,0,1,0,0,Myrmecocystus pyramicus,NA,60
+Formicinae,Myrmecocystus,tenuinodis,NA,"Snelling, 1976",0,1,1,0,0,0,0,0,Myrmecocystus tenuinodis,NA,60
+Formicinae,Nylanderia,magnella,NA,"Kallal & LaPolla, 2012",0,1,0,0,0,0,0,0,Nylanderia magnella,NA,60
+Formicinae,Nylanderia,us-ca01,NA,null,0,1,0,0,0,0,0,0,Nylanderia us-ca01,NA,60
+Formicinae,Polyergus,vinosus,NA,"Trager, 2013",0,1,1,0,0,0,0,0,Polyergus vinosus,NA,60
+Formicinae,Prenolepis,us-ca01,NA,null,0,1,0,0,0,0,0,0,Prenolepis us-ca01,NA,60
+Myrmicinae,Aphaenogaster,occidentalis,NA,"(Emery, 1895)",0,1,0,1,0,1,0,1,Aphaenogaster occidentalis,NA,60
+Myrmicinae,Aphaenogaster,patruelis,NA,"Forel, 1886",0,1,1,0,0,0,0,0,Aphaenogaster patruelis,NA,60
+Myrmicinae,Aphaenogaster,uinta,NA,"Wheeler, 1917",0,1,0,0,0,1,0,1,Aphaenogaster uinta,NA,60
+Myrmicinae,Aphaenogaster,us-ca01,NA,null,0,1,0,0,0,0,0,0,Aphaenogaster us-ca01,NA,60
+Myrmicinae,Cardiocondyla,mauritanica,NA,"Forel, 1890",0,1,0,0,0,0,0,0,Cardiocondyla mauritanica,NA,60
+Myrmicinae,Cardiocondyla,minutior,NA,"Forel, 1899",0,1,0,0,0,0,0,0,Cardiocondyla minutior,NA,60
+Myrmicinae,Cardiocondyla,obscurior,NA,"Wheeler, 1929",0,1,0,0,0,0,0,0,Cardiocondyla obscurior,NA,60
+Myrmicinae,Cardiocondyla,wroughtonii,NA,"(Forel, 1890)",0,1,0,0,0,0,0,0,Cardiocondyla wroughtonii,NA,60
+Myrmicinae,Crematogaster,californica,NA,"Wheeler, 1919",0,1,1,0,0,0,0,0,Crematogaster californica,NA,60
+Myrmicinae,Crematogaster,detecta,NA,"Ward & Blaimer, 2022",0,1,0,0,0,1,0,1,Crematogaster detecta,NA,60
+Myrmicinae,Crematogaster,marioni,NA,"Buren, 1968",0,1,1,0,0,0,0,0,Crematogaster marioni,NA,60
+Myrmicinae,Formicoxenus,chamberlini,NA,"(Wheeler, 1904)",0,1,0,0,0,0,0,1,Formicoxenus chamberlini,NA,60
+Myrmicinae,Leptothorax,athabasca,NA,"Buschinger & Schulz, 2008",0,1,0,0,0,0,0,0,Leptothorax athabasca,NA,60
+Myrmicinae,Leptothorax,calderoni,NA,"Creighton, 1950",0,1,0,0,0,1,0,0,Leptothorax calderoni,NA,60
+Myrmicinae,Leptothorax,canadensis,NA,"Provancher, 1887",0,1,0,1,1,1,0,1,Leptothorax canadensis,NA,60
+Myrmicinae,Manica,bradleyi,NA,"(Wheeler, 1909)",0,1,0,0,0,1,0,0,Manica bradleyi,NA,60
+Myrmicinae,Manica,hunteri,NA,"(Wheeler, 1914)",0,1,0,1,0,1,0,1,Manica hunteri,NA,60
+Myrmicinae,Manica,invidia,NA,"Bolton, 1995",0,1,0,1,0,1,0,1,Manica invidia,NA,60
+Myrmicinae,Manica,parasitica,NA,"(Creighton, 1934)",0,1,0,0,0,0,0,0,Manica parasitica,NA,60
+Myrmicinae,Monomorium,pharaonis,NA,"(Linnaeus, 1758)",0,1,0,1,0,0,0,0,Monomorium pharaonis,NA,60
+Myrmicinae,Monomorium,sahlbergi,NA,"Emery, 1898",0,1,0,0,0,0,0,0,Monomorium sahlbergi,NA,60
+Myrmicinae,Myrmica,crassirugis,NA,"Francoeur, 2007",0,1,0,0,0,1,0,1,Myrmica crassirugis,NA,60
+Myrmicinae,Myrmica,discontinua,NA,"Weber, 1939",0,1,0,1,1,1,0,1,Myrmica discontinua,NA,60
+Myrmicinae,Myrmica,glacialis,NA,"Emery, 1921",0,1,0,0,0,1,0,0,Myrmica glacialis,NA,60
+Myrmicinae,Myrmica,incompleta,NA,"Provancher, 1881",0,1,0,1,0,1,0,1,Myrmica incompleta,NA,60
+Myrmicinae,Myrmica,punctinops,NA,"Francoeur, 2007",0,1,0,0,0,0,0,0,Myrmica punctinops,NA,60
+Myrmicinae,Myrmica,us-ca02,NA,null,0,1,0,0,0,0,0,0,Myrmica us-ca02,NA,60
+Myrmicinae,Pheidole,barbata,NA,"Wheeler, 1908",0,1,1,0,0,1,0,0,Pheidole barbata,NA,60
+Myrmicinae,Pheidole,californica,NA,"Mayr, 1870",0,1,1,0,0,1,0,1,Pheidole californica,NA,60
+Myrmicinae,Pheidole,clementensis,NA,"Gregg, 1969",0,1,1,0,0,0,0,0,Pheidole clementensis,NA,60
+Myrmicinae,Pheidole,creightoni,NA,"Gregg, 1955",0,1,0,0,0,1,0,0,Pheidole creightoni,NA,60
+Myrmicinae,Pheidole,fervens,NA,"Smith, 1858",0,1,0,0,0,0,0,0,Pheidole fervens,NA,60
+Myrmicinae,Pheidole,indica,NA,"Mayr, 1879",0,1,0,0,0,0,0,0,Pheidole indica,NA,60
+Myrmicinae,Pheidole,megacephala,NA,"(Fabricius, 1793)",0,1,0,0,0,0,0,0,Pheidole megacephala,NA,60
+Myrmicinae,Pheidole,navigans,NA,"Forel, 1901",0,1,0,0,0,0,0,0,Pheidole navigans,NA,60
+Myrmicinae,Pheidole,yaqui,NA,"Creighton & Gregg, 1955",0,1,1,0,0,0,0,0,Pheidole yaqui,NA,60
+Myrmicinae,Pogonomyrmex,anzensis,NA,"Cole, 1968",0,1,0,0,0,0,0,0,Pogonomyrmex anzensis,NA,60
+Myrmicinae,Pogonomyrmex,brevispinosus,NA,"Cole, 1968",0,1,0,0,0,1,0,0,Pogonomyrmex brevispinosus,NA,60
+Myrmicinae,Pogonomyrmex,mohavensis,NA,"Johnson, 2009",0,1,0,0,0,0,0,0,Pogonomyrmex mohavensis,NA,60
+Myrmicinae,Pogonomyrmex,montanus,NA,"MacKay, 1980",0,1,0,0,0,0,0,0,Pogonomyrmex montanus,NA,60
+Myrmicinae,Pogonomyrmex,salinus,NA,"Olsen, 1934",0,1,0,0,0,1,0,1,Pogonomyrmex salinus,NA,60
+Myrmicinae,Pogonomyrmex,subdentatus,NA,"Mayr, 1870",0,1,0,0,0,1,0,0,Pogonomyrmex subdentatus,NA,60
+Myrmicinae,Pogonomyrmex,subnitidus,NA,"Emery, 1895",0,1,0,0,0,0,0,1,Pogonomyrmex subnitidus,NA,60
+Myrmicinae,Rogeria,us-ca01,NA,null,0,1,0,0,0,0,0,0,Rogeria us-ca01,NA,60
+Myrmicinae,Solenopsis,invicta,NA,"Buren, 1972",0,1,0,0,1,0,0,0,Solenopsis invicta,NA,60
+Myrmicinae,Solenopsis,melina,NA,"Pacheco & Mackay, 2013",0,1,0,0,0,0,0,0,Solenopsis melina,NA,60
+Myrmicinae,Solenopsis,us-ca01,NA,null,0,1,0,0,0,0,0,0,Solenopsis us-ca01,NA,60
+Myrmicinae,Solenopsis,validiuscula,NA,"Emery, 1895",0,1,0,0,0,0,0,1,Solenopsis validiuscula,NA,60
+Myrmicinae,Stenamma,californicum,NA,"Snelling, 1973",0,1,0,0,0,0,0,0,Stenamma californicum,NA,60
+Myrmicinae,Stenamma,diecki,NA,"Emery, 1895",0,1,0,1,0,0,0,1,Stenamma diecki,NA,60
+Myrmicinae,Stenamma,dyscheres,NA,"Snelling, 1973",0,1,0,0,0,0,0,0,Stenamma dyscheres,NA,60
+Myrmicinae,Stenamma,exasperatum,NA,"Snelling, 1973",0,1,0,0,0,0,0,0,Stenamma exasperatum,NA,60
+Myrmicinae,Stenamma,heathi,NA,"Wheeler, 1915",0,1,0,0,0,0,0,0,Stenamma heathi,NA,60
+Myrmicinae,Stenamma,heathi_nr,NA,null,0,1,0,0,0,0,0,0,Stenamma heathi_nr,NA,60
+Myrmicinae,Stenamma,mgb101,NA,null,0,1,0,0,0,0,0,0,Stenamma mgb101,NA,60
+Myrmicinae,Stenamma,mgb102,NA,null,0,1,0,0,0,0,0,0,Stenamma mgb102,NA,60
+Myrmicinae,Stenamma,punctatoventre,NA,"Snelling, 1973",0,1,0,0,0,0,0,0,Stenamma punctatoventre,NA,60
+Myrmicinae,Stenamma,punctatoventre_nr1,NA,null,0,1,0,0,0,0,0,0,Stenamma punctatoventre_nr1,NA,60
+Myrmicinae,Stenamma,punctatoventre_nr2,NA,null,0,1,0,0,0,0,0,0,Stenamma punctatoventre_nr2,NA,60
+Myrmicinae,Stenamma,punctatoventre_nr3,NA,null,0,1,0,0,0,0,0,0,Stenamma punctatoventre_nr3,NA,60
+Myrmicinae,Stenamma,sequoiarum,NA,"Wheeler, 1917",0,1,0,0,0,0,0,0,Stenamma sequoiarum,NA,60
+Myrmicinae,Stenamma,sequoiarum_nr,NA,null,0,1,0,0,0,0,0,0,Stenamma sequoiarum_nr,NA,60
+Myrmicinae,Stenamma,smithi,NA,"Cole, 1966",0,1,0,0,0,1,0,1,Stenamma smithi,NA,60
+Myrmicinae,Stenamma,snellingi_nr,NA,null,0,1,0,0,0,0,0,0,Stenamma snellingi_nr,NA,60
+Myrmicinae,Stenamma,us-ca01,NA,null,0,1,0,0,0,0,0,0,Stenamma us-ca01,NA,60
+Myrmicinae,Stenamma,wheelerorum,NA,"Snelling, 1973",0,1,0,0,0,1,0,0,Stenamma wheelerorum,NA,60
+Myrmicinae,Strumigenys,californica,NA,"(Brown, 1950)",0,1,0,0,0,0,0,0,Strumigenys californica,NA,60
+Myrmicinae,Strumigenys,dbbca_03,NA,null,0,1,0,0,0,0,0,0,Strumigenys dbbca_03,NA,60
+Myrmicinae,Strumigenys,reliquia,NA,"(Ward, 1988)",0,1,0,0,0,0,0,0,Strumigenys reliquia,NA,60
+Myrmicinae,Strumigenys,silvestrii,NA,"Emery, 1906",0,1,0,0,0,0,0,0,Strumigenys silvestrii,NA,60
+Myrmicinae,Strumigenys,subtilis,NA,"Booher, 2021",0,1,0,0,0,0,0,0,Strumigenys subtilis,NA,60
+Myrmicinae,Temnothorax,anaphalantus,NA,"Snelling <i>et al.</i>, 2014",0,1,1,0,0,0,0,0,Temnothorax anaphalantus,NA,60
+Myrmicinae,Temnothorax,caguatan,NA,"Snelling <i>et al.</i>, 2014",0,1,1,0,0,0,0,0,Temnothorax caguatan,NA,60
+Myrmicinae,Temnothorax,chandleri,NA,"(Mackay, 2000)",0,1,0,0,0,0,0,0,Temnothorax chandleri,NA,60
+Myrmicinae,Temnothorax,gallae,NA,"(Smith, 1949)",0,1,0,0,0,0,0,0,Temnothorax gallae,NA,60
+Myrmicinae,Temnothorax,morongo,NA,"Snelling <i>et al.</i>, 2014",0,1,1,0,0,0,0,0,Temnothorax morongo,NA,60
+Myrmicinae,Temnothorax,myrmiciformis,NA,"Snelling <i>et al.</i>, 2014",0,1,1,0,0,0,0,0,Temnothorax myrmiciformis,NA,60
+Myrmicinae,Temnothorax,nevadensis,NA,"(Wheeler, 1903)",0,1,0,0,0,1,0,1,Temnothorax nevadensis,NA,60
+Myrmicinae,Temnothorax,oxynodis,NA,"(Mackay, 2000)",0,1,0,0,0,0,0,0,Temnothorax oxynodis,NA,60
+Myrmicinae,Temnothorax,paiute,NA,"Snelling <i>et al.</i>, 2014",0,1,0,0,0,1,0,0,Temnothorax paiute,NA,60
+Myrmicinae,Temnothorax,quasimodo,NA,"Snelling <i>et al.</i>, 2014",0,1,0,0,0,0,0,0,Temnothorax quasimodo,NA,60
+Myrmicinae,Temnothorax,rudis,NA,"(Wheeler, 1917)",0,1,0,0,0,0,0,0,Temnothorax rudis,NA,60
+Myrmicinae,Temnothorax,wardi,NA,"Snelling <i>et al.</i>, 2014",0,1,1,0,0,0,0,0,Temnothorax wardi,NA,60
+Myrmicinae,Tetramorium,bicarinatum,NA,"(Nylander, 1846)",0,1,0,0,0,0,0,0,Tetramorium bicarinatum,NA,60
+Myrmicinae,Tetramorium,immigrans,NA,"Santschi, 1927",0,1,0,1,0,1,0,1,Tetramorium immigrans,NA,60
+Myrmicinae,Tetramorium,insolens,NA,"(Smith, 1861)",0,1,0,0,0,0,0,0,Tetramorium insolens,NA,60
+Myrmicinae,Tetramorium,pacificum,NA,"Mayr, 1870",0,1,0,0,0,0,0,0,Tetramorium pacificum,NA,60
+Myrmicinae,Tetramorium,simillimum,NA,"(Smith, 1851)",0,1,0,0,0,0,0,0,Tetramorium simillimum,NA,60
+Myrmicinae,Veromessor,andrei,NA,"(Mayr, 1886)",0,1,0,0,0,0,0,0,Veromessor andrei,NA,60
+Myrmicinae,Veromessor,chamberlini,NA,"(Wheeler, 1915)",0,1,0,0,0,0,0,0,Veromessor chamberlini,NA,60
+Myrmicinae,Veromessor,chicoensis,NA,"Smith, 1956",0,1,0,0,0,0,0,0,Veromessor chicoensis,NA,60
+Myrmicinae,Veromessor,lariversi,NA,"Smith, 1951",0,1,0,0,0,1,0,0,Veromessor lariversi,NA,60
+Myrmicinae,Veromessor,stoddardi,NA,"(Emery, 1895)",0,1,1,0,0,0,0,0,Veromessor stoddardi,NA,60
+Ponerinae,Hypoponera,ergatandria,NA,"(Forel, 1893)",0,1,1,0,0,0,0,0,Hypoponera ergatandria,NA,60
+Ponerinae,Hypoponera,opaciceps,NA,"(Mayr, 1887)",0,1,0,1,0,0,0,0,Hypoponera opaciceps,NA,60
+Ponerinae,Hypoponera,punctatissima,NA,"(Roger, 1859)",0,1,0,0,0,0,0,0,Hypoponera punctatissima,NA,60
+Ponerinae,Hypoponera,us-ca01,NA,null,0,1,0,0,0,0,0,0,Hypoponera us-ca01,NA,60
+Proceratiinae,Proceratium,californicum,NA,"Cook, 1953",0,1,0,0,0,0,0,0,Proceratium californicum,NA,60
+Formicinae,Camponotus,conspicuus,sharpi,"Forel, 1893",0,0,1,0,0,0,0,0,Camponotus conspicuus,Camponotus conspicuus sharpi,66
+Formicinae,Camponotus,keiferi,NA,"Wheeler, 1934",0,0,1,0,0,0,0,0,Camponotus keiferi,NA,60
+Myrmicinae,Crematogaster,cedrosensis,NA,"Wheeler, 1934",0,0,1,0,0,0,0,0,Crematogaster cedrosensis,NA,60
+Myrmicinae,Crematogaster,rossi,NA,"Buren, 1968",0,0,1,0,0,0,0,0,Crematogaster rossi,NA,60
+Myrmicinae,Pogonomyrmex,laevinodis,NA,"Snelling, 1982",0,0,1,0,0,0,0,0,Pogonomyrmex laevinodis,NA,60
+Myrmicinae,Temnothorax,pilicornis,NA,"Prebus, 2021",0,0,1,0,0,0,0,0,Temnothorax pilicornis,NA,60
+Myrmicinae,Veromessor,julianus,NA,"(Pergande, 1894)",0,0,1,0,0,0,0,0,Veromessor julianus,NA,60
+Ponerinae,Leptogenys,peninsularis,NA,"Mann, 1926",0,0,1,0,0,0,0,0,Leptogenys peninsularis,NA,60
+Pseudomyrmecinae,Pseudomyrmex,arcanus,NA,"Ward & Branstetter, 2022",0,0,1,0,0,0,0,0,Pseudomyrmex arcanus,NA,60
+Agroecomyrmecinae,Eulithomyrmex,rugosus,NA,"(Carpenter, 1930)",0,0,0,1,0,0,0,0,Eulithomyrmex rugosus,NA,60
+Dolichoderinae,Dolichoderus,antiquus,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Dolichoderus antiquus,NA,60
+Dolichoderinae,Dolichoderus,rohweri,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Dolichoderus rohweri,NA,60
+Dolichoderinae,Dorymyrmex,smithi,NA,"Cole, 1936",0,0,0,1,1,1,0,1,Dorymyrmex smithi,NA,60
+Dolichoderinae,Elaeomyrmex,coloradensis,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Elaeomyrmex coloradensis,NA,60
+Dolichoderinae,Elaeomyrmex,gracilis,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Elaeomyrmex gracilis,NA,60
+Dolichoderinae,Iridomyrmex,florissantius,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Iridomyrmex florissantius,NA,60
+Dolichoderinae,Liometopum,miocenicum,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Liometopum miocenicum,NA,60
+Dolichoderinae,Liometopum,scudderi,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Liometopum scudderi,NA,60
+Dolichoderinae,Miomyrmex,impactus,NA,"(Cockerell, 1927)",0,0,0,1,0,0,0,0,Miomyrmex impactus,NA,60
+Dolichoderinae,Miomyrmex,striatus,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Miomyrmex striatus,NA,60
+Dolichoderinae,Protazteca,capitata,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Protazteca capitata,NA,60
+Dolichoderinae,Protazteca,elongata,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Protazteca elongata,NA,60
+Dolichoderinae,Protazteca,hendersoni,NA,"(Cockerell, 1906)",0,0,0,1,0,0,0,0,Protazteca hendersoni,NA,60
+Dolichoderinae,Protazteca,quadrata,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Protazteca quadrata,NA,60
+Formicinae,Camponotus,fuscipennis,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Camponotus fuscipennis,NA,60
+Formicinae,Camponotus,nearcticus,NA,"Emery, 1893",0,0,0,1,1,0,0,1,Camponotus nearcticus,NA,60
+Formicinae,Camponotus,novaeboracensis,NA,"(Fitch, 1855)",0,0,0,1,0,0,0,0,Camponotus novaeboracensis,NA,60
+Formicinae,Camponotus,petrifactus,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Camponotus petrifactus,NA,60
+Formicinae,Formica,adamsi,NA,"Wheeler, 1909",0,0,0,1,0,0,0,0,Formica adamsi,NA,60
+Formicinae,Formica,adamsi,alpina,"Wheeler, 1909",0,0,0,1,0,0,0,0,Formica adamsi,Formica adamsi alpina,66
+Formicinae,Formica,bradleyi,NA,"Wheeler, 1913",0,0,0,1,0,0,0,0,Formica bradleyi,NA,60
+Formicinae,Formica,ciliata,NA,"Mayr, 1886",0,0,0,1,1,0,0,1,Formica ciliata,NA,60
+Formicinae,Formica,cinerea,NA,"Mayr, 1853",0,0,0,1,0,0,0,1,Formica cinerea,NA,60
+Formicinae,Formica,cockerelli,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Formica cockerelli,NA,60
+Formicinae,Formica,coloradensis,NA,"Creighton, 1940",0,0,0,1,0,0,0,1,Formica coloradensis,NA,60
+Formicinae,Formica,comata,NA,"Wheeler, 1909",0,0,0,1,0,0,0,0,Formica comata,NA,60
+Formicinae,Formica,criniventris,NA,"Wheeler, 1912",0,0,0,1,0,0,0,1,Formica criniventris,NA,60
+Formicinae,Formica,dolosa,NA,"Buren, 1944",0,0,0,1,0,0,0,0,Formica dolosa,NA,60
+Formicinae,Formica,emeryi,NA,"Wheeler, 1913",0,0,0,1,0,0,0,1,Formica emeryi,NA,60
+Formicinae,Formica,exsectoides,NA,"Forel, 1886",0,0,0,1,0,0,0,0,Formica exsectoides,NA,60
+Formicinae,Formica,gynocrates,NA,"Snelling & Buren, 1985",0,0,0,1,0,0,0,0,Formica gynocrates,NA,60
+Formicinae,Formica,integra,NA,"Nylander, 1856",0,0,0,1,0,0,0,0,Formica integra,NA,60
+Formicinae,Formica,laeviceps,NA,"Creighton, 1940",0,0,0,1,0,0,0,1,Formica laeviceps,NA,60
+Formicinae,Formica,limata,NA,"Wheeler, 1913",0,0,0,1,1,0,0,1,Formica limata,NA,60
+Formicinae,Formica,microgyna,NA,"Wheeler, 1903",0,0,0,1,0,1,0,1,Formica microgyna,NA,60
+Formicinae,Formica,mucescens,NA,"Wheeler, 1913",0,0,0,1,0,0,0,1,Formica mucescens,NA,60
+Formicinae,Formica,obscuriventris,NA,"Mayr, 1870",0,0,0,1,0,0,0,1,Formica obscuriventris,NA,60
+Formicinae,Formica,obtusopilosa,NA,"Emery, 1893",0,0,0,1,1,1,0,1,Formica obtusopilosa,NA,60
+Formicinae,Formica,opaciventris,NA,"Emery, 1893",0,0,0,1,1,0,0,1,Formica opaciventris,NA,60
+Formicinae,Formica,pallidefulva,NA,"Latreille, 1802",0,0,0,1,1,0,0,0,Formica pallidefulva,NA,60
+Formicinae,Formica,robusta,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Formica robusta,NA,60
+Formicinae,Formica,rubicunda,NA,"Emery, 1893",0,0,0,1,0,0,0,0,Formica rubicunda,NA,60
+Formicinae,Formica,sanguinea,NA,"Latreille, 1798",0,0,0,1,0,1,0,1,Formica sanguinea,NA,60
+Formicinae,Formica,subintegra,NA,"Wheeler, 1908",0,0,0,1,0,0,0,0,Formica subintegra,NA,60
+Formicinae,Lasius,claviger,NA,"(Roger, 1862)",0,0,0,1,0,0,0,1,Lasius claviger,NA,60
+Formicinae,Lasius,coloradensis,NA,"Wheeler, 1917",0,0,0,1,1,1,0,1,Lasius coloradensis,NA,60
+Formicinae,Lasius,creightoni,NA,"(Wing, 1968)",0,0,0,1,0,0,0,0,Lasius creightoni,NA,60
+Formicinae,Lasius,nearcticus,NA,"Wheeler, 1906",0,0,0,1,0,0,0,0,Lasius nearcticus,NA,60
+Formicinae,Lasius,niger,NA,"(Linnaeus, 1758)",0,0,0,1,0,1,0,1,Lasius niger,NA,60
+Formicinae,Lasius,pogonogynus,NA,"Buren, 1950",0,0,0,1,0,0,0,0,Lasius pogonogynus,NA,60
+Formicinae,Polyergus,lucidus,NA,"Mayr, 1870",0,0,0,1,0,0,0,0,Polyergus lucidus,NA,60
+Formicinae,Polyergus,montivagus,NA,"Wheeler, 1915",0,0,0,1,0,0,0,0,Polyergus montivagus,NA,60
+Incertae_sedis,Eoformica,pinguis,NA,"(Scudder, 1877)",0,0,0,1,0,0,0,0,Eoformica pinguis,NA,60
+Myrmeciinae,Archimyrmex,rostratus,NA,"Cockerell, 1923",0,0,0,1,0,0,0,0,Archimyrmex rostratus,NA,60
+Myrmicinae,Aphaenogaster,mayri,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Aphaenogaster mayri,NA,60
+Myrmicinae,Aphaenogaster,rudis,NA,"Wesson & Wesson, 1940",0,0,0,1,0,0,0,0,Aphaenogaster rudis,NA,60
+Myrmicinae,Crematogaster,punctulata,NA,"Emery, 1895",0,0,0,1,1,0,0,0,Crematogaster punctulata,NA,60
+Myrmicinae,Formicoxenus,provancheri,NA,"(Emery, 1895)",0,0,0,1,0,0,0,1,Formicoxenus provancheri,NA,60
+Myrmicinae,Messor,sculpturatus,NA,"Carpenter, 1930",0,0,0,1,0,0,0,0,Messor sculpturatus,NA,60
+Myrmicinae,Monomorium,talbotae,NA,"DuBois, 1981",0,0,0,1,0,0,0,0,Monomorium talbotae,NA,60
+Myrmicinae,Myrmica,americana,NA,"Weber, 1939",0,0,0,1,0,0,0,1,Myrmica americana,NA,60
+Myrmicinae,Myrmica,brevispinosa,NA,"Wheeler, 1917",0,0,0,1,1,0,0,1,Myrmica brevispinosa,NA,60
+Myrmicinae,Myrmica,lobicornis,NA,"Nylander, 1846",0,0,0,1,0,0,0,0,Myrmica lobicornis,NA,60
+Myrmicinae,Myrmica,monticola,NA,"Creighton, 1950",0,0,0,1,1,0,0,1,Myrmica monticola,NA,60
+Myrmicinae,Myrmica,nearctica,NA,"Weber, 1939",0,0,0,1,0,0,0,1,Myrmica nearctica,NA,60
+Myrmicinae,Myrmica,schencki,NA,"Viereck, 1903",0,0,0,1,0,0,0,1,Myrmica schencki,NA,60
+Myrmicinae,Myrmica,spatulata,NA,"Smith, 1930",0,0,0,1,0,0,0,0,Myrmica spatulata,NA,60
+Myrmicinae,Pheidole,elecebra,NA,"(Wheeler, 1904)",0,0,0,1,0,0,0,0,Pheidole elecebra,NA,60
+Myrmicinae,Pogonomyrmex,comanche,NA,"Wheeler, 1902",0,0,0,1,0,0,0,0,Pogonomyrmex comanche,NA,60
+Myrmicinae,Stenamma,brevicorne,NA,"(Mayr, 1886)",0,0,0,1,0,0,0,0,Stenamma brevicorne,NA,60
+Myrmicinae,Stenamma,schmittii,NA,"Wheeler, 1903",0,0,0,1,0,0,0,0,Stenamma schmittii,NA,60
+Myrmicinae,Strumigenys,pilinasis,NA,"Forel, 1901",0,0,0,1,0,0,0,0,Strumigenys pilinasis,NA,60
+Myrmicinae,Temnothorax,furunculus,NA,"(Wheeler, 1909)",0,0,0,1,0,0,0,0,Temnothorax furunculus,NA,60
+Myrmicinae,Temnothorax,schaumii,NA,"(Roger, 1863)",0,0,0,1,0,0,0,0,Temnothorax schaumii,NA,60
+Myrmicinae,Temnothorax,schmittii,NA,"(Wheeler, 1903)",0,0,0,1,1,0,0,0,Temnothorax schmittii,NA,60
+Myrmicinae,Temnothorax,texanus,NA,"(Wheeler, 1903)",0,0,0,1,0,0,0,0,Temnothorax texanus,NA,60
+Myrmicinae,Tetramorium,atratulum,NA,"(Schenck, 1852)",0,0,0,1,0,0,0,0,Tetramorium atratulum,NA,60
+Myrmicinae,Tetramorium,caespitum,NA,"(Linnaeus, 1758)",0,0,0,1,1,1,0,1,Tetramorium caespitum,NA,60
+Myrmicinae,Veromessor,lobognathus,NA,"(Andrews, 1916)",0,0,0,1,0,1,0,1,Veromessor lobognathus,NA,60
+Ponerinae,Ponera,pennsylvanica,NA,"Buckley, 1866",0,0,0,1,0,0,0,1,Ponera pennsylvanica,NA,60
+Dolichoderinae,Dorymyrmex,bureni,NA,"(Trager, 1988)",0,0,0,0,1,0,0,0,Dorymyrmex bureni,NA,60
+Dorylinae,Neivamyrmex,carolinensis,NA,"(Emery, 1894)",0,0,0,0,1,0,0,0,Neivamyrmex carolinensis,NA,60
+Formicinae,Formica,calviceps,NA,"Cole, 1954",0,0,0,0,1,0,0,0,Formica calviceps,NA,60
+Formicinae,Lasius,xerophilus,NA,"MacKay & MacKay, 1994",0,0,0,0,1,0,0,0,Lasius xerophilus,NA,60
+Myrmicinae,Aphaenogaster,punctaticeps,NA,"MacKay, 1989",0,0,0,0,1,0,0,0,Aphaenogaster punctaticeps,NA,60
+Myrmicinae,Aphaenogaster,smithi,NA,"Gregg, 1949",0,0,0,0,1,0,0,0,Aphaenogaster smithi,NA,60
+Myrmicinae,Pheidole,dentata,NA,"Mayr, 1886",0,0,0,0,1,0,0,0,Pheidole dentata,NA,60
+Myrmicinae,Pheidole,rugosula,NA,"Forel, 1902",0,0,0,0,1,0,0,0,Pheidole rugosula,NA,60
+Myrmicinae,Pheidole,wheelerorum,NA,"MacKay, 1988",0,0,0,0,1,0,0,0,Pheidole wheelerorum,NA,60
+Myrmicinae,Pogonomyrmex,texanus,NA,"Francke & Merickel, 1982",0,0,0,0,1,0,0,0,Pogonomyrmex texanus,NA,60
+Myrmicinae,Solenopsis,longiceps,NA,"Forel, 1907",0,0,0,0,1,0,0,0,Solenopsis longiceps,NA,60
+Myrmicinae,Solenopsis,pulleni,NA,"Pacheco <i>et al.</i>, 2013",0,0,0,0,1,0,0,0,Solenopsis pulleni,NA,60
+Myrmicinae,Solenopsis,quadridentata,NA,"Pacheco <i>et al.</i>, 2013",0,0,0,0,1,0,0,0,Solenopsis quadridentata,NA,60
+Myrmicinae,Strumigenys,macgowni,NA,"Booher, 2021",0,0,0,0,1,0,0,0,Strumigenys macgowni,NA,60
+Myrmicinae,Temnothorax,coleenae,NA,"(Mackay, 2000)",0,0,0,0,1,0,0,0,Temnothorax coleenae,NA,60
+Myrmicinae,Trachymyrmex,smithi,NA,"Buren, 1944",0,0,0,0,1,0,0,0,Trachymyrmex smithi,NA,60
+Formicinae,Formica,oregonensis,NA,"Cole, 1938",0,0,0,0,0,1,0,1,Formica oregonensis,NA,60
+Formicinae,Lasius,nevadensis,NA,"Cole, 1956",0,0,0,0,0,1,0,0,Lasius nevadensis,NA,60
+Formicinae,Myrmecocystus,arenarius,NA,"Snelling, 1982",0,0,0,0,0,1,0,0,Myrmecocystus arenarius,NA,60
+Myrmicinae,Myrmica,wheelerorum,NA,"Francoeur, 2007",0,0,0,0,0,1,0,0,Myrmica wheelerorum,NA,60
+Myrmicinae,Pheidole,inquilina,NA,"(Wheeler, 1903)",0,0,0,0,0,1,0,1,Pheidole inquilina,NA,60
+Myrmicinae,Temnothorax,nuwuvi,NA,"Snelling <i>et al.</i>, 2014",0,0,0,0,0,1,0,0,Temnothorax nuwuvi,NA,60
+Dorylinae,Nomamyrmex,esenbeckii,NA,"(Westwood, 1842)",0,0,0,0,0,0,1,0,Nomamyrmex esenbeckii,NA,60
+Formicinae,Brachymyrmex,heeri,NA,"Forel, 1874",0,0,0,0,0,0,1,0,Brachymyrmex heeri,NA,60
+Formicinae,Camponotus,atriceps,NA,"(Smith, 1858)",0,0,0,0,0,0,1,0,Camponotus atriceps,NA,60
+Formicinae,Camponotus,fumidus,NA,"Roger, 1863",0,0,0,0,0,0,1,0,Camponotus fumidus,NA,60
+Formicinae,Myrmecocystus,nequazcatl,NA,"Snelling, 1976",0,0,0,0,0,0,1,0,Myrmecocystus nequazcatl,NA,60
+Formicinae,Nylanderia,guatemalensis,NA,"(Forel, 1885)",0,0,0,0,0,0,1,0,Nylanderia guatemalensis,NA,60
+Myrmicinae,Temnothorax,ocarinae,NA,"(Baroni Urbani, 1978)",0,0,0,0,0,0,1,0,Temnothorax ocarinae,NA,60
+Myrmicinae,Tetramorium,caldarium,NA,"(Roger, 1857)",0,0,0,0,0,0,1,0,Tetramorium caldarium,NA,60
+Ponerinae,Leptogenys,sonora,NA,"Lattke, 2011",0,0,0,0,0,0,1,0,Leptogenys sonora,NA,60
+Pseudomyrmecinae,Pseudomyrmex,championi,NA,"(Forel, 1899)",0,0,0,0,0,0,1,0,Pseudomyrmex championi,NA,60
+Pseudomyrmecinae,Pseudomyrmex,major,NA,"(Forel, 1899)",0,0,0,0,0,0,1,0,Pseudomyrmex major,NA,60
+Pseudomyrmecinae,Pseudomyrmex,seminole,NA,"Ward, 1985",0,0,0,0,0,0,1,0,Pseudomyrmex seminole,NA,60
+Dolichoderinae,Dorymyrmex,paiute,NA,"Snelling, 1995",0,0,0,0,0,0,0,1,Dorymyrmex paiute,NA,60
+Formicinae,Camponotus,discolor,NA,"(Buckley, 1866)",0,0,0,0,0,0,0,1,Camponotus discolor,NA,60
+Myrmicinae,Pheidole,grundmanni,NA,"Smith, 1953",0,0,0,0,0,0,0,1,Pheidole grundmanni,NA,60
+Myrmicinae,Strumigenys,ananeotes,NA,"Longino & Booher, 2019",0,0,0,0,0,0,0,1,Strumigenys ananeotes,NA,60
+Agroecomyrmecinae,Eulithomyrmex,NA,NA,NA,0,0,0,1,0,0,0,0,NA,NA,50
+Amblyoponinae,Fulakora,NA,NA,NA,1,0,0,0,0,0,0,0,NA,NA,50
+Amblyoponinae,Stigmatomma,NA,NA,NA,1,2,0,1,0,1,0,0,NA,NA,50
+Dolichoderinae,Dolichoderus,NA,NA,NA,0,0,0,2,0,0,0,0,NA,NA,50
+Dolichoderinae,Dorymyrmex,NA,NA,NA,9,4,1,3,5,4,2,5,NA,NA,50
+Dolichoderinae,Elaeomyrmex,NA,NA,NA,0,0,0,2,0,0,0,0,NA,NA,50
+Dolichoderinae,Forelius,NA,NA,NA,3,2,2,2,2,2,2,2,NA,NA,50
+Dolichoderinae,Iridomyrmex,NA,NA,NA,0,0,0,1,0,0,0,0,NA,NA,50
+Dolichoderinae,Linepithema,NA,NA,NA,1,1,1,0,1,0,0,0,NA,NA,50
+Dolichoderinae,Liometopum,NA,NA,NA,2,2,0,4,2,1,0,1,NA,NA,50
+Dolichoderinae,Miomyrmex,NA,NA,NA,0,0,0,2,0,0,0,0,NA,NA,50
+Dolichoderinae,Protazteca,NA,NA,NA,0,0,0,4,0,0,0,0,NA,NA,50
+Dolichoderinae,Tapinoma,NA,NA,NA,1,2,1,1,1,2,1,1,NA,NA,50
+Dolichoderinae,Technomyrmex,NA,NA,NA,0,1,0,0,0,0,0,0,NA,NA,50
+Dorylinae,Acanthostichus,NA,NA,NA,3,1,0,0,1,0,0,0,NA,NA,50
+Dorylinae,Neivamyrmex,NA,NA,NA,16,9,0,3,5,1,0,1,NA,NA,50
+Dorylinae,Nomamyrmex,NA,NA,NA,0,0,0,0,0,0,1,0,NA,NA,50
+Dorylinae,Syscia,NA,NA,NA,3,1,1,0,0,0,0,0,NA,NA,50
+Ectatomminae,Typhlomyrmex,NA,NA,NA,1,0,0,0,0,0,0,0,NA,NA,50
+Formicinae,Acropyga,NA,NA,NA,1,0,0,0,0,0,0,0,NA,NA,50
+Formicinae,Brachymyrmex,NA,NA,NA,2,3,0,1,1,0,1,1,NA,NA,50
+Formicinae,Camponotus,NA,NA,NA,23,21,17,10,10,8,8,10,NA,NA,50
+Formicinae,Colobopsis,NA,NA,NA,1,0,0,0,0,0,1,0,NA,NA,50
+Formicinae,Formica,NA,NA,NA,24,42,5,53,22,31,1,46,NA,NA,50
+Formicinae,Lasius,NA,NA,NA,18,18,0,20,9,12,0,16,NA,NA,50
+Formicinae,Myrmecocystus,NA,NA,NA,16,22,5,4,9,13,5,6,NA,NA,50
+Formicinae,Nylanderia,NA,NA,NA,5,4,0,0,4,1,3,1,NA,NA,50
+Formicinae,Paratrechina,NA,NA,NA,1,1,1,0,0,0,1,0,NA,NA,50
+Formicinae,Polyergus,NA,NA,NA,3,2,1,4,1,2,0,1,NA,NA,50
+Formicinae,Prenolepis,NA,NA,NA,1,2,1,1,1,0,0,1,NA,NA,50
+Incertae_sedis,Eoformica,NA,NA,NA,0,0,0,1,0,0,0,0,NA,NA,50
+Myrmeciinae,Archimyrmex,NA,NA,NA,0,0,0,1,0,0,0,0,NA,NA,50
+Myrmicinae,Acromyrmex,NA,NA,NA,1,1,1,0,0,0,0,0,NA,NA,50
+Myrmicinae,Aphaenogaster,NA,NA,NA,4,6,2,3,5,4,1,3,NA,NA,50
+Myrmicinae,Atta,NA,NA,NA,1,0,0,0,0,0,1,0,NA,NA,50
+Myrmicinae,Cardiocondyla,NA,NA,NA,0,4,0,0,0,0,0,0,NA,NA,50
+Myrmicinae,Cephalotes,NA,NA,NA,1,0,0,0,0,0,1,0,NA,NA,50
+Myrmicinae,Crematogaster,NA,NA,NA,21,11,8,6,15,8,8,10,NA,NA,50
+Myrmicinae,Cyphomyrmex,NA,NA,NA,2,2,0,0,0,0,0,0,NA,NA,50
+Myrmicinae,Dolopomyrmex,NA,NA,NA,1,1,0,0,0,0,0,0,NA,NA,50
+Myrmicinae,Formicoxenus,NA,NA,NA,2,2,0,2,1,0,0,4,NA,NA,50
+Myrmicinae,Leptothorax,NA,NA,NA,4,3,0,3,3,4,0,3,NA,NA,50
+Myrmicinae,Manica,NA,NA,NA,0,4,0,2,0,3,0,2,NA,NA,50
+Myrmicinae,Messor,NA,NA,NA,0,0,0,1,0,0,0,0,NA,NA,50
+Myrmicinae,Monomorium,NA,NA,NA,6,3,0,4,2,3,3,3,NA,NA,50
+Myrmicinae,Myrmecina,NA,NA,NA,1,1,0,1,1,0,0,0,NA,NA,50
+Myrmicinae,Myrmica,NA,NA,NA,12,8,0,16,9,8,0,13,NA,NA,50
+Myrmicinae,Novomessor,NA,NA,NA,2,1,0,0,1,0,2,0,NA,NA,50
+Myrmicinae,Pheidole,NA,NA,NA,53,23,10,9,20,13,8,12,NA,NA,50
+Myrmicinae,Pogonomyrmex,NA,NA,NA,16,17,3,6,12,9,7,7,NA,NA,50
+Myrmicinae,Rogeria,NA,NA,NA,1,1,0,0,0,0,0,0,NA,NA,50
+Myrmicinae,Solenopsis,NA,NA,NA,9,10,1,4,10,3,2,6,NA,NA,50
+Myrmicinae,Stenamma,NA,NA,NA,3,19,0,4,1,3,0,4,NA,NA,50
+Myrmicinae,Strumigenys,NA,NA,NA,6,6,0,1,1,0,0,1,NA,NA,50
+Myrmicinae,Temnothorax,NA,NA,NA,24,20,11,11,15,8,4,8,NA,NA,50
+Myrmicinae,Tetramorium,NA,NA,NA,3,6,0,3,2,2,2,3,NA,NA,50
+Myrmicinae,Trachymyrmex,NA,NA,NA,5,0,0,0,3,0,1,0,NA,NA,50
+Myrmicinae,Veromessor,NA,NA,NA,2,7,3,1,0,4,1,1,NA,NA,50
+Ponerinae,Hypoponera,NA,NA,NA,3,5,1,2,1,1,1,1,NA,NA,50
+Ponerinae,Leptogenys,NA,NA,NA,0,0,1,0,0,0,1,0,NA,NA,50
+Ponerinae,Odontomachus,NA,NA,NA,2,0,0,0,0,0,2,0,NA,NA,50
+Ponerinae,Ponera,NA,NA,NA,0,0,0,1,0,0,0,1,NA,NA,50
+Proceratiinae,Proceratium,NA,NA,NA,0,1,0,0,0,0,0,0,NA,NA,50
+Pseudomyrmecinae,Pseudomyrmex,NA,NA,NA,2,2,3,1,1,1,5,0,NA,NA,50
+Agroecomyrmecinae,NA,NA,NA,NA,0,0,0,1,0,0,0,0,NA,NA,42
+Amblyoponinae,NA,NA,NA,NA,2,2,0,1,0,1,0,0,NA,NA,42
+Dolichoderinae,NA,NA,NA,NA,16,12,5,21,11,9,5,9,NA,NA,42
+Dorylinae,NA,NA,NA,NA,22,11,1,3,6,1,1,1,NA,NA,42
+Ectatomminae,NA,NA,NA,NA,1,0,0,0,0,0,0,0,NA,NA,42
+Formicinae,NA,NA,NA,NA,95,115,30,93,57,67,20,82,NA,NA,42
+Incertae_sedis,NA,NA,NA,NA,0,0,0,1,0,0,0,0,NA,NA,42
+Myrmeciinae,NA,NA,NA,NA,0,0,0,1,0,0,0,0,NA,NA,42
+Myrmicinae,NA,NA,NA,NA,180,156,39,77,101,72,41,80,NA,NA,42
+Ponerinae,NA,NA,NA,NA,5,5,2,3,1,1,4,2,NA,NA,42
+Proceratiinae,NA,NA,NA,NA,0,1,0,0,0,0,0,0,NA,NA,42
+Pseudomyrmecinae,NA,NA,NA,NA,2,2,3,1,1,1,5,0,NA,NA,42
