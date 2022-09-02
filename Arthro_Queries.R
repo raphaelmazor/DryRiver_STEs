@@ -11,11 +11,12 @@ library(readxl)
 options(ENTREZ_KEY = "b2ccdcd6619a29d3bf31de74e7cde9a1c209")
 
 # import data / clean ---------------------------------
-tax_0<-read_csv("Data/VocabRequest_ArhtropodSTE.csv") 
+tax_0<-#read_csv("Data/VocabRequest_ArhtropodSTE.csv") 
+  read_xlsx("Data/VocabRequest_ArthropodSTE.xlsx", sheet="All arthropods")
 tax<-tax_0  %>% 
   mutate(Species=trimSpace(FinalID)) %>%
   # filter(!is.na(Family))
-  filter(TaxonomicLevelCode==50)
+  filter(TaxonomicLevelCode==40)
 taxa<-tax$Species
 #taxa<-(droplevels(taxa[1:10]))
 sort(taxa)
@@ -31,6 +32,7 @@ src <- c("EOL", "The International Plant Names Index",
 
 result.long <-gnr_resolve(sci = as.character(tax$Species), data_source_ids = c(1,5,12,165,167), 
                           with_canonical_ranks=T)
+write.table(result.long, file="clipboard", sep="\t", row.names=F)
 
 write_csv(result.long, "Outputs/Arthropod_spellcheck.csv")
 
@@ -47,35 +49,54 @@ taxa<-#sort(unique(result.long$matched_name2))
 ###################################################
 # BOLD -------------------------------------------------
 ###################################################
+junk<-bold_seqspec("Formicidae")
+junk$markercode %>% unique() %>% sort()
+junk %>% select(markercode) %>% unique() %>% dput()
 
-
-
-bold_df_summary<-  lapply(taxa, function(x){
+#Carabidae markers c("COI-5P", "COI-3P", "", "16S", "18S-3P", "ITS2", "COI-5PNMT1", "ND2", "CYTB", "COII", "ND3", "ND4L", "ND6", "COXIII", "ND1", "ND4", "ND5-0")     
+bold_df_summary<-  lapply(taxa[1:6], function(x){
   print(x)
   mydf=bold_seqspec(x) 
   if(class(mydf)=="data.frame"){ 
     mydf<-mydf %>% 
       mutate(Locus = case_when(#str_detect(seq_primers %>% tolower(),"rbcl")~"rbcL",
                                #str_detect(seq_primers %>% tolower(),"trnl")~"trnL",
-                               str_detect(seq_primers %>% tolower(),"its")~"ITS",
-                               str_detect(seq_primers %>% tolower(),"coi")~"COI",
-                               str_detect(seq_primers %>% tolower(),"co1")~"COI",
-                               T~"Other"))
+                               str_detect(marker_codes %>% tolower(),"its")~"ITS", #Ribosomal
+                               str_detect(marker_codes %>% tolower(),"coi")~"COI", #Mitochondrial
+                               str_detect(marker_codes %>% tolower(),"co1")~"COI", #Mitochondrial
+                               str_detect(markercode %>% tolower(),"its")~"ITS", #Ribosomal
+                               str_detect(markercode %>% tolower(),"coi")~"COI",#Mitochondrial
+                               str_detect(markercode %>% tolower(),"co1")~"COI",#Mitochondrial
+                               
+                               #
+                               str_detect(markercode %>% tolower(),"18s")~"18S", #Ribosomal
+                               str_detect(marker_codes %>% tolower(),"18s")~"18S", #Ribosomal
+                               str_detect(markercode %>% tolower(),"16s")~"16S", #Ribosomal but sometimes mitochondrial
+                               str_detect(marker_codes %>% tolower(),"16s")~"16S", #Ribosomal but sometimes mitochondrial
+                               str_detect(markercode %>% tolower(),"12s")~"12S", #Mitochondrial
+                               str_detect(marker_codes %>% tolower(),"12s")~"12S", #Mitochondrial
+                               str_detect(markercode %>% tolower(),"cytb")~"CYTB", #Mitochondrial
+                               str_detect(marker_codes %>% tolower(),"cytb")~"CYTB", #Mitochondrial
+                               str_detect(markercode %>% tolower(),"coxiii")~"COI", #Mitochondrial
+                               str_detect(marker_codes %>% tolower(),"coxiii")~"COI", #Mitochondrial
+                               
+                               T~"Other"))%>%
+      filter(Locus!="Other")
     xdf<-tibble(FinalID=x,
                 BOLD_Records=nrow(mydf),
                 BOLD_Records_USA=sum(mydf$country=="United States", na.rm=T),
                 BOLD_Records_CA=sum(mydf$province_state=="California", na.rm=T),
                 BOLD_Records_SW = sum(mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
                 
-                BOLD_Records_rbcL=sum(mydf$Locus=="rbcL", na.rm = T),
-                BOLD_Records_rbcL_USA=sum(mydf$Locus=="rbcL" & mydf$country=="United States", na.rm=T),
-                BOLD_Records_rbcL_CA=sum(mydf$Locus=="rbcL" &mydf$province_state=="California", na.rm=T),
-                BOLD_Records_rbcL_SW = sum(mydf$Locus=="rbcL" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
+                # BOLD_Records_rbcL=sum(mydf$Locus=="rbcL", na.rm = T),
+                # BOLD_Records_rbcL_USA=sum(mydf$Locus=="rbcL" & mydf$country=="United States", na.rm=T),
+                # BOLD_Records_rbcL_CA=sum(mydf$Locus=="rbcL" &mydf$province_state=="California", na.rm=T),
+                # BOLD_Records_rbcL_SW = sum(mydf$Locus=="rbcL" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
                 
-                BOLD_Records_trnL=sum(mydf$Locus=="trnL", na.rm = T),
-                BOLD_Records_trnL_USA=sum(mydf$Locus=="trnL" & mydf$country=="United States", na.rm=T),
-                BOLD_Records_trnL_CA=sum(mydf$Locus=="trnL" &mydf$province_state=="California", na.rm=T),
-                BOLD_Records_trnL_SW = sum( mydf$Locus=="trnL" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
+                # BOLD_Records_trnL=sum(mydf$Locus=="trnL", na.rm = T),
+                # BOLD_Records_trnL_USA=sum(mydf$Locus=="trnL" & mydf$country=="United States", na.rm=T),
+                # BOLD_Records_trnL_CA=sum(mydf$Locus=="trnL" &mydf$province_state=="California", na.rm=T),
+                # BOLD_Records_trnL_SW = sum( mydf$Locus=="trnL" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
                 
                 BOLD_Records_ITS=sum(mydf$Locus=="ITS", na.rm = T),
                 BOLD_Records_ITS_USA=sum(mydf$Locus=="ITS" & mydf$country=="United States", na.rm=T),
