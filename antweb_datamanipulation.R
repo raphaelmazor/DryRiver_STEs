@@ -43,5 +43,32 @@ ants_df %>%
   mutate(TaxonomicLevelCode = case_when(is.na(Genus)~42,
                                         is.na(Species)~50,
                                         is.na(Subspecies)~60,
-                                        T~66)) %>%
+                                        T~66),
+         FinalID = case_when(TaxonomicLevelCode==66~GenSpSp,
+                             TaxonomicLevelCode==60~GenSp,
+                             TaxonomicLevelCode==50~Genus,
+                             TaxonomicLevelCode==42~Subfamily,
+                             T~NA_character_),
+         ParentFinalID = case_when(TaxonomicLevelCode==66~GenSp,
+                                   TaxonomicLevelCode==60~Genus,
+                                   TaxonomicLevelCode==50~"tribe",
+                                   TaxonomicLevelCode==42~"Formicidae",
+                                   T~NA_character_)
+         ) %>%
+  
+  transmute(FinalID, ParentFinalID, 
+            Active= -1,
+            Phylum="Arthropoda", Subphylum="Hexapoda", 
+            Class="Insecta", Order="Hymenoptera", Family="Formicidae",
+            Subfamily,
+            # Tribe=NA_character_,
+            Genus, Species=GenSp, Subspecies=GenSpSp,
+            TaxonomicLevelCode, TaxaList=0,LifeStageDefault="A",
+            CaliforniaTaxon=0,
+            TaxonomicAuthority=Author_Date,
+            FinalIDAuthority="CSUMB-WEE", Source="CSUMB-WEE",
+            Notes=case_when(California==1~"Found in CA",T~"Found in SW USA"),
+            California, Arizona,  BajaCalifornia, Sonora, Nevada,NewMexico, Colorado, Utah
+            ) %>%
+  # as.data.frame() %>% head()
   write_csv(file="Data/AntWebLists/AntWeb_Consolidated.csv")
